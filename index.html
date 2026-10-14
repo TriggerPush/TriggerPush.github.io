@@ -15,7 +15,20 @@
       overflow: hidden;
     }
 
-    /* main image, centered on black */
+    /* random full-screen background */
+    #bg {
+      position: fixed;
+      inset: 0;
+      background: #000 center / cover no-repeat;
+    }
+    #bg::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to bottom, rgba(0,0,0,0.55), rgba(0,0,0,0.25) 40%, rgba(0,0,0,0.7));
+    }
+
+    /* main image, centered on top */
     #main {
       position: fixed;
       inset: 0;
@@ -89,6 +102,7 @@
   </style>
 </head>
 <body>
+  <div id="bg"></div>
   <div id="main"><img src="image.png" alt=""></div>
 
   <div id="info">
@@ -104,6 +118,17 @@
   </div>
 
   <script>
+    // Random background: list the files you put in the bg folder here
+    var backgrounds = [
+      "bg/1.jpg",
+      "bg/2.jpg",
+      "bg/3.jpg"
+    ];
+    if (backgrounds.length) {
+      var pick = backgrounds[Math.floor(Math.random() * backgrounds.length)];
+      document.getElementById("bg").style.backgroundImage = "url('" + pick + "')";
+    }
+
     // 1/100 chance to show rlove.png in the corner (add #rlove to the URL to force it for testing)
     if (Math.floor(Math.random() * 100) === 0 || location.hash === "#rlove") {
       document.getElementById("rlove").style.display = "block";
