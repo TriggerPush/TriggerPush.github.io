@@ -94,10 +94,33 @@
     #rlove {
       display: none;
       position: fixed;
+      top: 2vh;
       right: 2vw;
-      bottom: 12vh;
-      max-width: 20vw;
-      max-height: 30vh;
+      max-width: 8vw;
+      max-height: 14vh;
+    }
+
+    /* quote of the day */
+    #qotd {
+      margin-bottom: 18px;
+      max-width: 60vw;
+    }
+    #qotd-label {
+      font-size: clamp(10px, 1vw, 13px);
+      color: var(--accent);
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      margin-bottom: 6px;
+    }
+    #qotd-text {
+      font-size: clamp(14px, 1.7vw, 24px);
+      font-style: italic;
+      line-height: 1.4;
+    }
+    #qotd-author {
+      margin-top: 4px;
+      font-size: clamp(11px, 1.1vw, 15px);
+      color: var(--muted);
     }
   </style>
 </head>
@@ -113,6 +136,11 @@
   <img id="rlove" src="rlove.png" alt="">
 
   <div id="bottom">
+    <div id="qotd">
+      <div id="qotd-label">Quote of the day</div>
+      <div id="qotd-text"></div>
+      <div id="qotd-author"></div>
+    </div>
     <div id="status">Connecting...</div>
     <div id="bar"><div id="fill"></div></div>
   </div>
@@ -127,6 +155,21 @@
     if (backgrounds.length) {
       var pick = backgrounds[Math.floor(Math.random() * backgrounds.length)];
       document.getElementById("bg").style.backgroundImage = "url('" + pick + "')";
+    }
+
+    // Quote of the day: add your own quotes here (changes once per day)
+    var quotes = [
+      { text: "Shit server, Shit Devs.", author: "Coolin" },
+      { text: "When life gives you lemons, shove them up your butt.", author: "Red" },
+      { text: "Why even make a QOTD system?", author: "Coolin" }
+    ];
+    if (quotes.length) {
+      var day = Math.floor(Date.now() / 86400000);
+      var q = quotes[day % quotes.length];
+      document.getElementById("qotd-text").textContent = "\u201C" + q.text + "\u201D";
+      document.getElementById("qotd-author").textContent = q.author ? "\u2014 " + q.author : "";
+    } else {
+      document.getElementById("qotd").style.display = "none";
     }
 
     // 1/100 chance to show rlove.png in the corner (add #rlove to the URL to force it for testing)
