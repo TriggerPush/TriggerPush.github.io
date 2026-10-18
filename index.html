@@ -18,20 +18,29 @@
     /* random full-screen background */
     #bg {
       position: fixed;
-      inset: 0;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
       background: #000 center / cover no-repeat;
     }
     #bg::after {
       content: "";
       position: absolute;
-      inset: 0;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
       background: linear-gradient(to bottom, rgba(0,0,0,0.55), rgba(0,0,0,0.25) 40%, rgba(0,0,0,0.7));
     }
 
     /* main image, centered on top */
     #main {
       position: fixed;
-      inset: 0;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -51,6 +60,7 @@
       padding-left: 16px;
     }
     #servername {
+      font-size: 3.2vw;
       font-size: clamp(22px, 3.2vw, 44px);
       font-weight: 700;
       letter-spacing: 3px;
@@ -58,6 +68,7 @@
     }
     #meta {
       margin-top: 6px;
+      font-size: 1.3vw;
       font-size: clamp(12px, 1.3vw, 18px);
       color: var(--muted);
       letter-spacing: 2px;
@@ -73,6 +84,7 @@
       bottom: 4vh;
     }
     #status {
+      font-size: 1.2vw;
       font-size: clamp(12px, 1.2vw, 16px);
       color: var(--muted);
       letter-spacing: 1px;
@@ -106,6 +118,7 @@
       max-width: 60vw;
     }
     #qotd-label {
+      font-size: 1vw;
       font-size: clamp(10px, 1vw, 13px);
       color: var(--accent);
       letter-spacing: 3px;
@@ -113,12 +126,14 @@
       margin-bottom: 6px;
     }
     #qotd-text {
+      font-size: 1.7vw;
       font-size: clamp(14px, 1.7vw, 24px);
       font-style: italic;
       line-height: 1.4;
     }
     #qotd-author {
       margin-top: 4px;
+      font-size: 1.1vw;
       font-size: clamp(11px, 1.1vw, 15px);
       color: var(--muted);
     }
@@ -159,9 +174,9 @@
 
     // Quote of the day: add your own quotes here (changes once per day)
     var quotes = [
-      { text: "Shit server, Shit Devs.", author: "Coolin" },
-      { text: "When life gives you lemons, shove them up your butt.", author: "Red" },
-      { text: "Why even make a QOTD system?", author: "Coolin" }
+      { text: "I improvise a little.", author: "Red" },
+      { text: "Ralsei_love.", author: "Coolin" },
+      { text: "The sun has set, FWKZT wins.", author: "Coolin" }
     ];
     if (quotes.length) {
       var day = Math.floor(Date.now() / 86400000);
