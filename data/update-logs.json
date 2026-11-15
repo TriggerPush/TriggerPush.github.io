@@ -1,1 +1,3633 @@
-{"channel":null,"lookup":{"roles":{},"channels":{}},"messages":[]}
+{
+ "channel": {
+  "id": "1550275286438772876",
+  "name": "update-logs"
+ },
+ "lookup": {
+  "roles": {
+   "1550275011929972826": {
+    "name": "@everyone"
+   },
+   "1550275359734370364": {
+    "name": "Super Admin"
+   },
+   "1550275971809157210": {
+    "name": "Member"
+   },
+   "1565116453760409781": {
+    "name": "Maunz"
+   },
+   "1571379671801667758": {
+    "name": "Website Bot"
+   }
+  },
+  "channels": {
+   "1550275012903313438": "Text Channels",
+   "1550275012903313439": "Voice Channels",
+   "1550275012903313440": "general",
+   "1550275012903313442": "General",
+   "1550275083950493766": "suggestions",
+   "1550275219883823204": "announcements",
+   "1550275286438772876": "update-logs",
+   "1550276481891045416": "rules",
+   "1550277625254121632": "bugs-or-someshit-idk",
+   "1550277762990866612": "server-ip-and-content-pack",
+   "1550535917394198528": "dev-chat",
+   "1565091231359574230": "status-i-guess",
+   "1569474658133348447": "server-hub"
+  }
+ },
+ "messages": [
+  {
+   "id": "1571193418754031707",
+   "timestamp": "2026-11-14T16:01:42.393000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[TriggerPush/Redzs] New comment on commit `b69da61`",
+     "description": "logo",
+     "url": "https://github.com/TriggerPush/Redzs/commit/b69da61da1a7c114fc317c1f6f117b18598d6dc0#commitcomment-210023403",
+     "color": null,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1571193357953146941",
+   "timestamp": "2026-11-14T16:01:27.897000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`b69da61`](https://github.com/TriggerPush/Redzs/commit/b69da61da1a7c114fc317c1f6f117b18598d6dc0) Add files via upload - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/b69da61da1a7c114fc317c1f6f117b18598d6dc0",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1571187542252855399",
+   "timestamp": "2026-11-14T15:38:21.326000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "this is just shit getting added to cl death notice",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1571186915846135989",
+   "timestamp": "2026-11-14T15:35:51.979000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`63fa798`](https://github.com/TriggerPush/Redzs/commit/63fa798e4200ab4f08ba4357d8c504aeb3b67358) Add files via upload - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/63fa798e4200ab4f08ba4357d8c504aeb3b67358",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1571186807184302193",
+   "timestamp": "2026-11-14T15:35:26.072000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`7028c76`](https://github.com/TriggerPush/Redzs/commit/7028c76c639dcf3f34e2bd20504a40de370fd159) remove kill icon internally to add it to cl_dea... - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/7028c76c639dcf3f34e2bd20504a40de370fd159",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1571186495530860585",
+   "timestamp": "2026-11-14T15:34:11.768000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`e35dc26`](https://github.com/TriggerPush/Redzs/commit/e35dc2683d039324c3c6a1ad27c62f5618fec8b3) Change the name of news to updates - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redzs/commit/e35dc2683d039324c3c6a1ad27c62f5618fec8b3",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1571185166393811077",
+   "timestamp": "2026-11-14T15:28:54.877000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`4ae5012`](https://github.com/TriggerPush/Redzs/commit/4ae50123f83601d7bc090295d12668bc15683f47) new f1 menu - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redzs/commit/4ae50123f83601d7bc090295d12668bc15683f47",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1571180079680331947",
+   "timestamp": "2026-11-14T15:08:42.110000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "https://medal.tv/games/garrys-mod/clips/nVrWq6BrYRb1qE0NR?invite=cr-MSxmWU8sMjA3NzY0MTA1",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": null,
+     "description": null,
+     "url": "https://medal.tv/games/garrys-mod/clips/nVrWq6BrYRb1qE0NR?invite=cr-MSxmWU8sMjA3NzY0MTA1",
+     "color": null,
+     "author": null,
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1570866019721940993",
+   "timestamp": "2026-11-13T18:20:44.381000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`4a5f421`](https://github.com/TriggerPush/Redzs/commit/4a5f42104a15e00ed739b2e6c8cb35fb8f58d1a6) forgot to add this shit - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/4a5f42104a15e00ed739b2e6c8cb35fb8f58d1a6",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1570865053412892753",
+   "timestamp": "2026-11-13T18:16:53.995000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [
+    {
+     "url": "data/media/1570865053412892753-1570865053001981982.gif",
+     "name": "scarletcarcass.gif",
+     "type": "image/gif",
+     "width": 954,
+     "height": 789
+    }
+   ],
+   "embeds": []
+  },
+  {
+   "id": "1570863712091373780",
+   "timestamp": "2026-11-13T18:11:34.199000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`a951d3d`](https://github.com/TriggerPush/Redzs/commit/a951d3d1a62537cb6594ea9e5374837c08fb089c) add files for new impact sound - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/a951d3d1a62537cb6594ea9e5374837c08fb089c",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1570863505861779608",
+   "timestamp": "2026-11-13T18:10:45.030000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`fc4a7aa`](https://github.com/TriggerPush/Redzs/commit/fc4a7aa9ca66068ca8a56ce55e95977f9f01ed5f) death effect scarlet carcass - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/fc4a7aa9ca66068ca8a56ce55e95977f9f01ed5f",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1570863380556812342",
+   "timestamp": "2026-11-13T18:10:15.155000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`b4fe78f`](https://github.com/TriggerPush/Redzs/commit/b4fe78f2fce460e717674908ea191248a24e6b4f) rebalance and new impact sound for Scarlet Carcass - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/b4fe78f2fce460e717674908ea191248a24e6b4f",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1570863196258967643",
+   "timestamp": "2026-11-13T18:09:31.215000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`465b068`](https://github.com/TriggerPush/Redzs/commit/465b068b66bd0fee621a4c2bd2c5618526fd2275) Fixes for Scarlet Carcass and also rebalance - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/465b068b66bd0fee621a4c2bd2c5618526fd2275",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1570851752067076249",
+   "timestamp": "2026-11-13T17:24:02.707000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[TriggerPush/Redzs] New comment on commit `8c4384c`",
+     "description": "some booshit",
+     "url": "https://github.com/TriggerPush/Redzs/commit/8c4384caabbe4b8d8c59adfc8b1790c7139c8a71#commitcomment-209870616",
+     "color": null,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1570851614502162578",
+   "timestamp": "2026-11-13T17:23:29.909000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`8c4384c`](https://github.com/TriggerPush/Redzs/commit/8c4384caabbe4b8d8c59adfc8b1790c7139c8a71) Add files via upload - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/8c4384caabbe4b8d8c59adfc8b1790c7139c8a71",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1570626651736379419",
+   "timestamp": "2026-11-13T02:29:34.606000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[TriggerPush/Redzs] New comment on commit `946d4f7`",
+     "description": "kill icon for scarlet carcass",
+     "url": "https://github.com/TriggerPush/Redzs/commit/946d4f747550ba208333bd8b9bf9b4c85e74cc27#commitcomment-209697678",
+     "color": null,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1570626534752915518",
+   "timestamp": "2026-11-13T02:29:06.715000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`946d4f7`](https://github.com/TriggerPush/Redzs/commit/946d4f747550ba208333bd8b9bf9b4c85e74cc27) Add files via upload - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/946d4f747550ba208333bd8b9bf9b4c85e74cc27",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1570626459117166743",
+   "timestamp": "2026-11-13T02:28:48.682000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Trigger_Push",
+    "avatar": "https://cdn.discordapp.com/avatars/1130942982556745909/e0603ad2215dc03844d79280704703fd.png?size=64"
+   },
+   "content": "Break the whole gamemode",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1570626454147043434",
+   "timestamp": "2026-11-13T02:28:47.497000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Trigger_Push",
+    "avatar": "https://cdn.discordapp.com/avatars/1130942982556745909/e0603ad2215dc03844d79280704703fd.png?size=64"
+   },
+   "content": "https://klipy.com/gifs/steamhappy-1",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "Steamhappy",
+     "description": null,
+     "url": "https://klipy.com/gifs/steamhappy-1",
+     "color": null,
+     "author": null,
+     "footer": null,
+     "thumbnail": "data/media/1570626454147043434-e0-thumb.webp",
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1570626353189883967",
+   "timestamp": "2026-11-13T02:28:23.427000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`525df64`](https://github.com/TriggerPush/Redzs/commit/525df649462496453fce4ed96abc632220fcb319) part of the new demiboss - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/525df649462496453fce4ed96abc632220fcb319",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1570626214278996009",
+   "timestamp": "2026-11-13T02:27:50.308000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`8e86498`](https://github.com/TriggerPush/Redzs/commit/8e86498ab9a940323f792132564fa4227c53b977) New Demiboss - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/8e86498ab9a940323f792132564fa4227c53b977",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1570208699258245205",
+   "timestamp": "2026-11-11T22:48:46.970000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`1a8ed3c`](https://github.com/TriggerPush/Redzs/commit/1a8ed3ce0f82f93a8606cb433152a963aff2b43d) updated bonemesh projectile - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/1a8ed3ce0f82f93a8606cb433152a963aff2b43d",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1570208454776201319",
+   "timestamp": "2026-11-11T22:47:48.681000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`472b0cf`](https://github.com/TriggerPush/Redzs/commit/472b0cf35b9d0b7fdfd8517dfb847d39212a70e6) new bonemesh - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/472b0cf35b9d0b7fdfd8517dfb847d39212a70e6",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1570208294142742619",
+   "timestamp": "2026-11-11T22:47:10.383000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`38e0c9c`](https://github.com/TriggerPush/Redzs/commit/38e0c9c31a676cc85f775f3f1424acea695e9461) new SCK zombie base  and new Bonemesh - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/38e0c9c31a676cc85f775f3f1424acea695e9461",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1570207639718072361",
+   "timestamp": "2026-11-11T22:44:34.356000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`2d7592f`](https://github.com/TriggerPush/Redzs/commit/2d7592f4a5ad007a048b3e3c5edfcc22a7e74dfd) delete old bonemesh - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/2d7592f4a5ad007a048b3e3c5edfcc22a7e74dfd",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1569061811788058819",
+   "timestamp": "2026-11-08T18:51:27.689000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`8464c2e`](https://github.com/TriggerPush/Redzs/commit/8464c2ef969d0d94c51306236d42a6a681eebf3c) Add Zcredits Scaling with Demis and Bosses - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/8464c2ef969d0d94c51306236d42a6a681eebf3c",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1565832021945749675",
+   "timestamp": "2026-10-30T20:57:25.784000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`b0a044a`](https://github.com/TriggerPush/Redzs/commit/b0a044ae74a0a31f24907e60db0bb42e89ac560b) remake this so its on time - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/b0a044ae74a0a31f24907e60db0bb42e89ac560b",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1565054668374282374",
+   "timestamp": "2026-10-28T17:28:30.250000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`8286c48`](https://github.com/TriggerPush/Redzs/commit/8286c487a907fe9a629fa14f1aaf91ae4989c708) make zcredits wipe on replay - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/8286c487a907fe9a629fa14f1aaf91ae4989c708",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1564988417928855643",
+   "timestamp": "2026-10-28T13:05:14.913000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "like 75 unzipped",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1564982792427671654",
+   "timestamp": "2026-10-28T12:42:53.689000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "wow 20 mb zipped of unused shit",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1564982023137919039",
+   "timestamp": "2026-10-28T12:39:50.276000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`2e8ebee`](https://github.com/TriggerPush/Redzs/commit/2e8ebee5d4b6b3ed29f73b4720c3f3164075498d) remove this too as it is unused and just garbage - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/2e8ebee5d4b6b3ed29f73b4720c3f3164075498d",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1564981793633869877",
+   "timestamp": "2026-10-28T12:38:55.558000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`f3aa476`](https://github.com/TriggerPush/Redzs/commit/f3aa4763db9d48ed9d09b6039d3a50b6c666f8fa) do the same thing here - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/f3aa4763db9d48ed9d09b6039d3a50b6c666f8fa",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1564981687551529093",
+   "timestamp": "2026-10-28T12:38:30.266000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`68924e9`](https://github.com/TriggerPush/Redzs/commit/68924e9d7813023061b506a60dac2d4e822c7d4e) delete old useless model vtfs that i used like ... - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/68924e9d7813023061b506a60dac2d4e822c7d4e",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1564980004461219981",
+   "timestamp": "2026-10-28T12:31:48.986000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`6087183`](https://github.com/TriggerPush/Redzs/commit/6087183b565d92d47df0c37578c4f78f595a3701) new reload sound - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/6087183b565d92d47df0c37578c4f78f595a3701",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1564979720427282552",
+   "timestamp": "2026-10-28T12:30:41.267000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`ced75d8`](https://github.com/TriggerPush/Redzs/commit/ced75d892f6571ca5b67e693f7bf37d1739dc21d) model - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/ced75d892f6571ca5b67e693f7bf37d1739dc21d",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1564979538381774999",
+   "timestamp": "2026-10-28T12:29:57.864000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`2899d6d`](https://github.com/TriggerPush/Redzs/commit/2899d6dbb7160463c076910c956a7e670d4c7723) alyxgun viewmodel materials - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/2899d6dbb7160463c076910c956a7e670d4c7723",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1564979317421899837",
+   "timestamp": "2026-10-28T12:29:05.183000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`347eafc`](https://github.com/TriggerPush/Redzs/commit/347eafc2ec14d66633599415db3e5279a2923507) new z9000 alyx gun viewmodel - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/347eafc2ec14d66633599415db3e5279a2923507",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1564622982855524486",
+   "timestamp": "2026-10-27T12:53:08.402000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "https://klipy.com/gifs/apple-cat-8",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "Apple Cat Cuddles an Orange",
+     "description": null,
+     "url": "https://klipy.com/gifs/apple-cat-8",
+     "color": null,
+     "author": null,
+     "footer": null,
+     "thumbnail": "data/media/1564622982855524486-e0-thumb.webp",
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1564621203862327362",
+   "timestamp": "2026-10-27T12:46:04.257000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`9c72555`](https://github.com/TriggerPush/Redzs/commit/9c725553670c01076507fee705cfd70ed9c81a63) orange - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/9c725553670c01076507fee705cfd70ed9c81a63",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1564620324220182580",
+   "timestamp": "2026-10-27T12:42:34.534000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`f91286d`](https://github.com/TriggerPush/Redzs/commit/f91286d17e822174ea9906d475fe8aa254fc5e83) add status_burn to the status hud - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/f91286d17e822174ea9906d475fe8aa254fc5e83",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1564620045152161943",
+   "timestamp": "2026-10-27T12:41:27.999000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`0530c66`](https://github.com/TriggerPush/Redzs/commit/0530c66f2d3ddfaf4d9cb9e68f0a11d209f78777) revamp status_burn to vanilla like code - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/0530c66f2d3ddfaf4d9cb9e68f0a11d209f78777",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1563337894045683792",
+   "timestamp": "2026-10-23T23:46:39.354000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`98a5d76`](https://github.com/TriggerPush/Redzs/commit/98a5d76d36e6a21d0c4768132042967127c156bf) fix buildup draw - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/98a5d76d36e6a21d0c4768132042967127c156bf",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1563318935623962727",
+   "timestamp": "2026-10-23T22:31:19.314000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "and now inflicts status burn instead of using the buggy fire bs",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1563318840702533724",
+   "timestamp": "2026-10-23T22:30:56.683000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "now deals damage to boards in single rather than a clump",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1563318743315255327",
+   "timestamp": "2026-10-23T22:30:33.464000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "only burns wood props instead of every prop",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1563318684502589482",
+   "timestamp": "2026-10-23T22:30:19.442000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`a6fc48b`](https://github.com/TriggerPush/Redzs/commit/a6fc48b48a993075d6759a7b271d1f81f5bb7074) revamp Inferno boss and Mini Inferno zombie - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/a6fc48b48a993075d6759a7b271d1f81f5bb7074",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1563308107453698149",
+   "timestamp": "2026-10-23T21:48:17.677000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Captain𝕭𝖆𝖑𝖑𝖘",
+    "avatar": "https://cdn.discordapp.com/avatars/464846665707421716/4f5c506bd4cd1f6fa1c7e8aa013c427f.png?size=64"
+   },
+   "content": "Gay",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1563304372786430037",
+   "timestamp": "2026-10-23T21:33:27.263000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "now you can get zcredits from dealing damage to certain deployables",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1563304127285698753",
+   "timestamp": "2026-10-23T21:32:28.731000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`33da469`](https://github.com/TriggerPush/Redzs/commit/33da4691e33722499ea0221a32a59434d849a8fd) Add deployable data table so you can get zcredits - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/33da4691e33722499ea0221a32a59434d849a8fd",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1562170355844522125",
+   "timestamp": "2026-10-20T18:27:16.555000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`5627982`](https://github.com/TriggerPush/Redzs/commit/5627982e0bcb34cbecee877880ed975f8f750be6) Remove the Glass Prop / Material Check for cading - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/5627982e0bcb34cbecee877880ed975f8f750be6",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1561972175530102877",
+   "timestamp": "2026-10-20T05:19:46.686000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "or something",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1561972166365290538",
+   "timestamp": "2026-10-20T05:19:44.501000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "anyways sleep time for me",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1561971903931879445",
+   "timestamp": "2026-10-20T05:18:41.932000+00:00",
+   "edited": null,
+   "author": {
+    "name": "SOMEHUMAN",
+    "avatar": "https://cdn.discordapp.com/avatars/689526528484048903/ab3c92956ecd196cc243bb1c419dd255.png?size=64"
+   },
+   "content": "🔥🔥🔥🔥",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1561971618740314163",
+   "timestamp": "2026-10-20T05:17:33.937000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "<@689526528484048903>",
+   "mentions": {
+    "689526528484048903": "SOMEHUMAN"
+   },
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1561971570157682698",
+   "timestamp": "2026-10-20T05:17:22.354000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "https://medal.tv/games/garrys-mod/clips/nLgi2xs65xM1DaHxh?invite=cr-MSxrU3EsMjA3NzY0MTA1",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "Better Prop replace - Clipped Garry's Mod with Medal.tv",
+     "description": "Watch Better Prop replace by skeleton88 and millions of other Garry's Mod videos on Medal. #garrysmod",
+     "url": "https://medal.tv/games/garrys-mod/clips/nLgi2xs65xM1DaHxh?invite=cr-MSxrU3EsMjA3NzY0MTA1",
+     "color": null,
+     "author": "skeleton88",
+     "footer": null,
+     "thumbnail": "data/media/1561971570157682698-e0-thumb.jpg",
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1561965337564422285",
+   "timestamp": "2026-10-20T04:52:36.388000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`fbd22b3`](https://github.com/TriggerPush/Redzs/commit/fbd22b391488956ee502001cab804b661d112454) actually make prop replace good pt 2 - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/fbd22b391488956ee502001cab804b661d112454",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1561965134908235998",
+   "timestamp": "2026-10-20T04:51:48.071000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`11cf4f6`](https://github.com/TriggerPush/Redzs/commit/11cf4f6780e6c95348b7cc3aa5f7414560646ab0) actually make prop replace good pt 1 - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/11cf4f6780e6c95348b7cc3aa5f7414560646ab0",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1561906419337396377",
+   "timestamp": "2026-10-20T00:58:29.188000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "w coolin update",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1561906133621542925",
+   "timestamp": "2026-10-20T00:57:21.068000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`481bcf6`](https://github.com/TriggerPush/Redzs/commit/481bcf62eb2de95a0cb3af80d3a28ab60a5660e1) Fixed prop snap - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redzs/commit/481bcf62eb2de95a0cb3af80d3a28ab60a5660e1",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1561786186828226755",
+   "timestamp": "2026-10-19T17:00:43.524000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "shield would always proc at 300 hp now its every 600 hp",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1561786024881823789",
+   "timestamp": "2026-10-19T17:00:04.913000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`591e5a7`](https://github.com/TriggerPush/Redzs/commit/591e5a7f771029bb96cebf55db003342220bf1d0) nerf frost marrow shield is now based on hp scale - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/591e5a7f771029bb96cebf55db003342220bf1d0",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1561439443712348193",
+   "timestamp": "2026-10-18T18:02:53.523000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "and served no real purpose",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1561439418131423294",
+   "timestamp": "2026-10-18T18:02:47.424000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "yeah that shit was too busted",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1561437925579694242",
+   "timestamp": "2026-10-18T17:56:51.572000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`9a2edd1`](https://github.com/TriggerPush/Redzs/commit/9a2edd1a8a455da9795ed8c90ee9b5295689a834) fix weapons not working with viewmodel pos - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/9a2edd1a8a455da9795ed8c90ee9b5295689a834",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1561437574256394241",
+   "timestamp": "2026-10-18T17:55:27.810000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`61c6551`](https://github.com/TriggerPush/Redzs/commit/61c655136a6f94e3b225f49a0fd96fb46875ca6e) remove alyx gun - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/61c655136a6f94e3b225f49a0fd96fb46875ca6e",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1561437465972047903",
+   "timestamp": "2026-10-18T17:55:01.993000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`42e49d5`](https://github.com/TriggerPush/Redzs/commit/42e49d5ad3f3518f889af3dfef208a2cc707c0d9) add cvars for viewmodel settings - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/42e49d5ad3f3518f889af3dfef208a2cc707c0d9",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1561437319200907335",
+   "timestamp": "2026-10-18T17:54:27+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`546ab06`](https://github.com/TriggerPush/Redzs/commit/546ab06e038796b7a08009b83640e76a94ebc160) Add Support for new viewmodel pos settings option - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/546ab06e038796b7a08009b83640e76a94ebc160",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1561437114162348113",
+   "timestamp": "2026-10-18T17:53:38.115000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`07149bf`](https://github.com/TriggerPush/Redzs/commit/07149bf88028ae74f807984e92a2130f6c71fb4a) Numerous Fixes to zs settings menu - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/07149bf88028ae74f807984e92a2130f6c71fb4a",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1561165536887439392",
+   "timestamp": "2026-10-17T23:54:29.047000+00:00",
+   "edited": null,
+   "author": {
+    "name": "SOMEHUMAN",
+    "avatar": "https://cdn.discordapp.com/avatars/689526528484048903/ab3c92956ecd196cc243bb1c419dd255.png?size=64"
+   },
+   "content": "LMAOOO",
+   "mentions": {
+    "994938354560946247": "Dark Red"
+   },
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1561158097442046104",
+   "timestamp": "2026-10-17T23:24:55.345000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Captain𝕭𝖆𝖑𝖑𝖘",
+    "avatar": "https://cdn.discordapp.com/avatars/464846665707421716/4f5c506bd4cd1f6fa1c7e8aa013c427f.png?size=64"
+   },
+   "content": "Finally nigga",
+   "mentions": {
+    "994938354560946247": "Dark Red"
+   },
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1561122861849247797",
+   "timestamp": "2026-10-17T21:04:54.525000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "<@689526528484048903>",
+   "mentions": {
+    "689526528484048903": "SOMEHUMAN"
+   },
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1561122649697165344",
+   "timestamp": "2026-10-17T21:04:03.944000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "https://medal.tv/games/garrys-mod/clips/nKivwJKOTYhYOBdgE?invite=cr-MSxmcm0sMjA3NzY0MTA1",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "Untitled - Clipped Garry's Mod with Medal.tv",
+     "description": "Watch Untitled by skeleton88 and millions of other Garry's Mod videos on Medal. #garrysmod",
+     "url": "https://medal.tv/games/garrys-mod/clips/nKivwJKOTYhYOBdgE?invite=cr-MSxmcm0sMjA3NzY0MTA1",
+     "color": null,
+     "author": "skeleton88",
+     "footer": null,
+     "thumbnail": "data/media/1561122649697165344-e0-thumb.jpg",
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1561118663527108699",
+   "timestamp": "2026-10-17T20:48:13.567000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "<@464846665707421716>",
+   "mentions": {
+    "464846665707421716": "Captain𝕭𝖆𝖑𝖑𝖘"
+   },
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1561118429031825459",
+   "timestamp": "2026-10-17T20:47:17.659000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`7c0b993`](https://github.com/TriggerPush/Redzs/commit/7c0b993ed056c337bdf6315698a2e70173afc812) bodygroup serverside - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/7c0b993ed056c337bdf6315698a2e70173afc812",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1561118276094791704",
+   "timestamp": "2026-10-17T20:46:41.196000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`114e66b`](https://github.com/TriggerPush/Redzs/commit/114e66b01d76f401ea41c9c3b14d30217d591b7a) New Playermodel selection screen with bodygroups - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/114e66b01d76f401ea41c9c3b14d30217d591b7a",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1561114161826504715",
+   "timestamp": "2026-10-17T20:30:20.278000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`bb610ab`](https://github.com/TriggerPush/Redzs/commit/bb610abd6e01229aa2fdaef0193c7f7bd90389c5) rename - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/bb610abd6e01229aa2fdaef0193c7f7bd90389c5",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1561112990793728190",
+   "timestamp": "2026-10-17T20:25:41.082000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [
+    {
+     "url": "data/media/1561112990793728190-1561112990479163392.png",
+     "name": "image.png",
+     "type": "image/webp",
+     "width": 798,
+     "height": 724
+    }
+   ],
+   "embeds": []
+  },
+  {
+   "id": "1561112902566547479",
+   "timestamp": "2026-10-17T20:25:20.047000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`c986995`](https://github.com/TriggerPush/Redzs/commit/c98699510dd4a1b1f8b0de072cad586568bba386) Redesign for the Options/Settings menu - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/c98699510dd4a1b1f8b0de072cad586568bba386",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1559617157401157684",
+   "timestamp": "2026-10-13T17:21:46.610000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "and also nerfed the buildup to 95 instead of 45 and nerfed the damage slightly",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1559617053047136357",
+   "timestamp": "2026-10-13T17:21:21.730000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "so now its no longer fucked and bugged",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1559617015084482742",
+   "timestamp": "2026-10-13T17:21:12.679000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "Changed the Magdump net code a bit",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1559615641223307357",
+   "timestamp": "2026-10-13T17:15:45.125000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`2e04026`](https://github.com/TriggerPush/Redzs/commit/2e04026b709bb938f19194613d625e4b13fcb8e6) Ubercharge fix and nerf - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/2e04026b709bb938f19194613d625e4b13fcb8e6",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1559578028672024588",
+   "timestamp": "2026-10-13T14:46:17.594000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "```Butcher Knife range 48 -> 62.\n\n'Chipper' Shotgun number of shots 10 -> 9 ,\n clipsize from 6 -> 4 ,\n Spread Max from 2 -> 4 and Spread Minimum from 1.75 -> 2.75.\n\nCrowbar range 55 -> 65.\nUpgrade for range is nerfed original modifier is 3 now its 2.25.\n\nFrying Pan range 50 -> 62.\n\nMeat Hook range 50 -> 63.5\n\nIce Axe range 52 -> 61.25 \nUpgrade for range is nerfed original modifier is 3 now its 2.45.\n\n'Masamune' Katana damage 116 -> 106 , range 95 -> 85\n\nLadle range 58 -> 62.5 \nUpgrade for range is nerfed original modifier is 4 now its 3.25.\n\nMeat Tenderizer range 60 -> 67.4.\n\nPickaxe range 78 -> 72. \n\nPipe range 53 -> 65\n\nPlank range 48 -> 62\nUpgrade for range is nerfed original modifier is 4 now its 3.25.\n\nPot range 50 -> 62\n\n'Splinter' Sawed-Off Shotgun damage 11.35 -> 12.45 \n Spread Max from 9 -> 6 and Spread Minimum from 7.75 -> 4.75.\n\nSledgehammer range 64 -> 67.4 .\n\nStunbaton range 49 -> 62.\n\nKnife range 52 - 62 attack delay 0.85 -> 0.55 .\n\nAxe range 55 - 65.\n\nShovel range 68 - 73.\n\nthis might need some rebalancing in the future.\n\n ```",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1559552012939432059",
+   "timestamp": "2026-10-13T13:02:54.960000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`eee0b55`](https://github.com/TriggerPush/Redzs/commit/eee0b55b2574e4a218134763585c27273a4d2fb3) Small Weapon Rebalance Update - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/eee0b55b2574e4a218134763585c27273a4d2fb3",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1559354700359409704",
+   "timestamp": "2026-10-12T23:58:51.975000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`f3869c9`](https://github.com/TriggerPush/Redzs/commit/f3869c9863a201d9fb2e8e5695ca531794ebb795) ice axe nerf for swing speed - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/f3869c9863a201d9fb2e8e5695ca531794ebb795",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1559354206262141038",
+   "timestamp": "2026-10-12T23:56:54.173000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`5de56ed`](https://github.com/TriggerPush/Redzs/commit/5de56edcd4b2823047c70cc6c963e45349611eca) melee range buffs ill do more tmrw - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/5de56edcd4b2823047c70cc6c963e45349611eca",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1558608657732861985",
+   "timestamp": "2026-10-10T22:34:21.552000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`e47fd6b`](https://github.com/TriggerPush/Redzs/commit/e47fd6bd9a98b07a2470dc0a708e6f0c005bea10) Delete zombiesurvival/backgrounds directory - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redzs/commit/e47fd6bd9a98b07a2470dc0a708e6f0c005bea10",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1557129639409750027",
+   "timestamp": "2026-10-06T20:37:16.105000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`a8d4cbd`](https://github.com/TriggerPush/Redzs/commit/a8d4cbde96aba6e64619c0a05b1807e09a335d99) add function for bots to use demiboss  - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/a8d4cbde96aba6e64619c0a05b1807e09a335d99",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1557058826123878431",
+   "timestamp": "2026-10-06T15:55:52.902000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`989e29b`](https://github.com/TriggerPush/Redzs/commit/989e29bedd6685ee9c9a40b86f2bef2c075f19f1) remove the stubberx craft - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/989e29bedd6685ee9c9a40b86f2bef2c075f19f1",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1557057947375501369",
+   "timestamp": "2026-10-06T15:52:23.392000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`bd5643c`](https://github.com/TriggerPush/Redzs/commit/bd5643c0a3011401f1ab5b8bce291ebca4a80fa8) forgot this too :wilted_rose: - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/bd5643c0a3011401f1ab5b8bce291ebca4a80fa8",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1557054058764828692",
+   "timestamp": "2026-10-06T15:36:56.275000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`3f00789`](https://github.com/TriggerPush/Redzs/commit/3f007892d6cbdf905b6e227080dc7c723e5de748) forgot to remove scar stock :blind: - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/3f007892d6cbdf905b6e227080dc7c723e5de748",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1557053565682327633",
+   "timestamp": "2026-10-06T15:34:58.715000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`4b07d3b`](https://github.com/TriggerPush/Redzs/commit/4b07d3bd17ef57c6c0f717274bf8c06ce85ae7c9) t6 guns final stock removal - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/4b07d3bd17ef57c6c0f717274bf8c06ce85ae7c9",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1557052457576833025",
+   "timestamp": "2026-10-06T15:30:34.522000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`6b94767`](https://github.com/TriggerPush/Redzs/commit/6b94767771265ac55bfd57dbf783a8ba082444dd) entire melee stock removal - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/6b94767771265ac55bfd57dbf783a8ba082444dd",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1557050989079568487",
+   "timestamp": "2026-10-06T15:24:44.405000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`03a3c32`](https://github.com/TriggerPush/Redzs/commit/03a3c3202b17e121777a656a8f01d469b4186c8b) t5 guns max stock removal - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/03a3c3202b17e121777a656a8f01d469b4186c8b",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1557048271028097065",
+   "timestamp": "2026-10-06T15:13:56.371000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`78c6a3d`](https://github.com/TriggerPush/Redzs/commit/78c6a3d343eb92a3640819d94b76cc250093aeaf) part 2 t4 guns - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/78c6a3d343eb92a3640819d94b76cc250093aeaf",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1557048143156346961",
+   "timestamp": "2026-10-06T15:13:25.884000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`f225581`](https://github.com/TriggerPush/Redzs/commit/f225581649481ae397b082c3fbc25291c13ac23b) remove t4 gun stock part 1 - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/f225581649481ae397b082c3fbc25291c13ac23b",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1557045480784138313",
+   "timestamp": "2026-10-06T15:02:51.125000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`ebc75ee`](https://github.com/TriggerPush/Redzs/commit/ebc75eeb30b2d044ab4bb8096946836912fae7dc) slightly nerf the swing speed you gain from upg... - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/ebc75eeb30b2d044ab4bb8096946836912fae7dc",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1557045205558108323",
+   "timestamp": "2026-10-06T15:01:45.506000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "no more aids",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1557045117775511553",
+   "timestamp": "2026-10-06T15:01:24.577000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`e20ca50`](https://github.com/TriggerPush/Redzs/commit/e20ca50b47822b0af7529f0c9d48d95b2ef65197) remove explosion sound effect and explosion fro... - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/e20ca50b47822b0af7529f0c9d48d95b2ef65197",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1556739530600480780",
+   "timestamp": "2026-10-05T18:47:06.917000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "<@464846665707421716>",
+   "mentions": {
+    "464846665707421716": "Captain𝕭𝖆𝖑𝖑𝖘"
+   },
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1556739373687504896",
+   "timestamp": "2026-10-05T18:46:29.506000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "https://medal.tv/games/garrys-mod/clips/nFjPnXeMBeU9WKJ0n?invite=cr-MSxKTjIsMjA3NzY0MTA1",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "Untitled - Clipped Garry's Mod with Medal.tv",
+     "description": "Watch Untitled by skeleton88 and millions of other Garry's Mod videos on Medal. #garrysmod",
+     "url": "https://medal.tv/games/garrys-mod/clips/nFjPnXeMBeU9WKJ0n?invite=cr-MSxKTjIsMjA3NzY0MTA1",
+     "color": null,
+     "author": "skeleton88",
+     "footer": null,
+     "thumbnail": "data/media/1556739373687504896-e0-thumb.jpg",
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1556733529000255623",
+   "timestamp": "2026-10-05T18:23:16.024000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`ee82684`](https://github.com/TriggerPush/Redzs/commit/ee826845c20ef8d46f56e9e36d669032130db6b4) add kill icon fully - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/ee826845c20ef8d46f56e9e36d669032130db6b4",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1556733276297756753",
+   "timestamp": "2026-10-05T18:22:15.775000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`f6305a0`](https://github.com/TriggerPush/Redzs/commit/f6305a0d92de28eb45ab0ab302242f2e6357cf02) zaurdian poop - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/f6305a0d92de28eb45ab0ab302242f2e6357cf02",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1556733065903079445",
+   "timestamp": "2026-10-05T18:21:25.613000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`f15b0ea`](https://github.com/TriggerPush/Redzs/commit/f15b0eacde440771d26e63587a5c872044d3bc45) zaurdian animated icon - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/f15b0eacde440771d26e63587a5c872044d3bc45",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1556732726076248159",
+   "timestamp": "2026-10-05T18:20:04.592000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`ea88f7c`](https://github.com/TriggerPush/Redzs/commit/ea88f7c680dae0f5439756115883b66cb9068bee) rename - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/ea88f7c680dae0f5439756115883b66cb9068bee",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1556732295069704213",
+   "timestamp": "2026-10-05T18:18:21.832000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`d78fd7f`](https://github.com/TriggerPush/Redzs/commit/d78fd7f19b3a3a7ffa444664053a0b21eda8d9fe) zaurdian shit - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/d78fd7f19b3a3a7ffa444664053a0b21eda8d9fe",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1556732053913870368",
+   "timestamp": "2026-10-05T18:17:24.336000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`02c3421`](https://github.com/TriggerPush/Redzs/commit/02c34219b566b616449be1ee5cce9735fc35664f) zaurdian shit - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/02c34219b566b616449be1ee5cce9735fc35664f",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1556731811541950566",
+   "timestamp": "2026-10-05T18:16:26.550000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "zshop*",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1556731726808612946",
+   "timestamp": "2026-10-05T18:16:06.348000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`0719f14`](https://github.com/TriggerPush/Redzs/commit/0719f14ac9f844cb760ad699171776baf733a59a) new shop redesign - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/0719f14ac9f844cb760ad699171776baf733a59a",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1555503138725695551",
+   "timestamp": "2026-10-02T08:54:08.123000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`754d3ab`](https://github.com/TriggerPush/Redzs/commit/754d3ab5f1599385033271e115e18b50c533fda1) remove dogshit hudpaint - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/754d3ab5f1599385033271e115e18b50c533fda1",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1555502919242223619",
+   "timestamp": "2026-10-02T08:53:15.794000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`8ac257e`](https://github.com/TriggerPush/Redzs/commit/8ac257e1f2e7fe66a991efb69bd41482347e6f9c) Addcslua and include for zcredit vgui - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/8ac257e1f2e7fe66a991efb69bd41482347e6f9c",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1555502596238872697",
+   "timestamp": "2026-10-02T08:51:58.784000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`46473b9`](https://github.com/TriggerPush/Redzs/commit/46473b9de80f952b679473313162aafc0a9fe514) fix hopefully and add actual hud vgui for zcredits - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/46473b9de80f952b679473313162aafc0a9fe514",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1555199118832566283",
+   "timestamp": "2026-10-01T12:46:04.132000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`21dc422`](https://github.com/TriggerPush/Redzs/commit/21dc42260c74bc64f5e0713b284f63799374649f) add demi spawn notification - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/21dc42260c74bc64f5e0713b284f63799374649f",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1555198523178356799",
+   "timestamp": "2026-10-01T12:43:42.117000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`3c68786`](https://github.com/TriggerPush/Redzs/commit/3c6878624531f0145891cf81baf6fad66a681a90) fix - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/3c6878624531f0145891cf81baf6fad66a681a90",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1555198426054918228",
+   "timestamp": "2026-10-01T12:43:18.961000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`1b94830`](https://github.com/TriggerPush/Redzs/commit/1b948302d17e6717f8681529f07a5a983b770641) removed cause wrong directory - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/1b948302d17e6717f8681529f07a5a983b770641",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1555182570126450690",
+   "timestamp": "2026-10-01T11:40:18.613000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "nigger",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1555182554020184177",
+   "timestamp": "2026-10-01T11:40:14.773000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "haha",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1555179461253537896",
+   "timestamp": "2026-10-01T11:27:57.400000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`8fd5f50`](https://github.com/TriggerPush/Redzs/commit/8fd5f50d337e238ca4c319cf9ea744c9ba7bf78c) fix name of Frost Marrow :lmao: - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/8fd5f50d337e238ca4c319cf9ea744c9ba7bf78c",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1555167777143267381",
+   "timestamp": "2026-10-01T10:41:31.691000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "poop sex monster",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1555167749754462260",
+   "timestamp": "2026-10-01T10:41:25.161000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "https://medal.tv/games/garrys-mod/clips/nDwZLE3DQWvGBeyh2?invite=cr-MSx5aVMsMjA3NzY0MTA1",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "Untitled - Clipped Garry's Mod with Medal.tv",
+     "description": "Watch Untitled by skeleton88 and millions of other Garry's Mod videos on Medal. #garrysmod",
+     "url": "https://medal.tv/games/garrys-mod/clips/nDwZLE3DQWvGBeyh2?invite=cr-MSx5aVMsMjA3NzY0MTA1",
+     "color": null,
+     "author": "skeleton88",
+     "footer": null,
+     "thumbnail": "data/media/1555167749754462260-e0-thumb.jpg",
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1555167262984642642",
+   "timestamp": "2026-10-01T10:39:29.106000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`51f9436`](https://github.com/TriggerPush/Redzs/commit/51f9436bd923e60e57dba16cf06c0615fb67cbfe) small whatever - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/51f9436bd923e60e57dba16cf06c0615fb67cbfe",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1555165497215946763",
+   "timestamp": "2026-10-01T10:32:28.114000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`e3ce61f`](https://github.com/TriggerPush/Redzs/commit/e3ce61f1d5a6e018f647288db8639106677b3778) something to remove for later - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/e3ce61f1d5a6e018f647288db8639106677b3778",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1555164450158288896",
+   "timestamp": "2026-10-01T10:28:18.476000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`a25caed`](https://github.com/TriggerPush/Redzs/commit/a25caedbeb1b929e3579eff5284726f53d1c74cb) add frost marrow status and projectile - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/a25caedbeb1b929e3579eff5284726f53d1c74cb",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1555163090075521026",
+   "timestamp": "2026-10-01T10:22:54.207000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`6bd7342`](https://github.com/TriggerPush/Redzs/commit/6bd7342d05a89f68e55a38859dd788f45f7b601a) Add Frost Marrow and Parasite Descriptions - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/6bd7342d05a89f68e55a38859dd788f45f7b601a",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1555162536457019413",
+   "timestamp": "2026-10-01T10:20:42.214000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`a994e95`](https://github.com/TriggerPush/Redzs/commit/a994e9583169ebefb68f26f50b944e1320575b9f) Add Anchor - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/a994e9583169ebefb68f26f50b944e1320575b9f",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1555162232533291059",
+   "timestamp": "2026-10-01T10:19:29.753000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`46f26ed`](https://github.com/TriggerPush/Redzs/commit/46f26ed1b4f4d0e7bf4773750e1046a86eab1c7d) add parasite fully - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/46f26ed1b4f4d0e7bf4773750e1046a86eab1c7d",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1555162158105632879",
+   "timestamp": "2026-10-01T10:19:12.008000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`91d1253`](https://github.com/TriggerPush/Redzs/commit/91d1253c02446c60c0b6e6f167adee708d129c5d) Add Frost Marrow fully - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/91d1253c02446c60c0b6e6f167adee708d129c5d",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1555161987330215939",
+   "timestamp": "2026-10-01T10:18:31.292000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`2daac73`](https://github.com/TriggerPush/Redzs/commit/2daac73efa74a07b3ca6caf10394c648138d01fe) Add Frost Marrow Demiboss - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/2daac73efa74a07b3ca6caf10394c648138d01fe",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1555161563638399048",
+   "timestamp": "2026-10-01T10:16:50.276000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`f079a9f`](https://github.com/TriggerPush/Redzs/commit/f079a9f68070c4110e435a4c6c1e0a2e9879290a) Add Parasite Demiboss - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/f079a9f68070c4110e435a4c6c1e0a2e9879290a",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1555161228354257020",
+   "timestamp": "2026-10-01T10:15:30.338000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`bb1ac2f`](https://github.com/TriggerPush/Redzs/commit/bb1ac2f38e027ad5bed6c214bb8f0515e36d73ea) ZCredit floater - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/bb1ac2f38e027ad5bed6c214bb8f0515e36d73ea",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1555160939945525290",
+   "timestamp": "2026-10-01T10:14:21.576000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`a7477b7`](https://github.com/TriggerPush/Redzs/commit/a7477b7e77377a92dfbc055761e6660de05cad94) Make it so you cant spawn as Demi Normally - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/a7477b7e77377a92dfbc055761e6660de05cad94",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1555160652094636055",
+   "timestamp": "2026-10-01T10:13:12.947000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`059d254`](https://github.com/TriggerPush/Redzs/commit/059d254d9effef232524036ea60a1ec3366065f7) Indicator for Zombie Shop Currency and Demi Screen - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/059d254d9effef232524036ea60a1ec3366065f7",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1555160130751045686",
+   "timestamp": "2026-10-01T10:11:08.649000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`42b41e6`](https://github.com/TriggerPush/Redzs/commit/42b41e6fd2bb03f8f52302c3eca8b79b39afb048) Add F2 Zombie Shop UI - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/42b41e6fd2bb03f8f52302c3eca8b79b39afb048",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1555159864777379881",
+   "timestamp": "2026-10-01T10:10:05.236000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`f2a02e0`](https://github.com/TriggerPush/Redzs/commit/f2a02e054f3efafcb8045b79723059f3c788b26e) Add F2 Zombie Shop - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/f2a02e054f3efafcb8045b79723059f3c788b26e",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1555159174709776496",
+   "timestamp": "2026-10-01T10:07:20.711000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "just wait...",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1555159135291703309",
+   "timestamp": "2026-10-01T10:07:11.313000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "huge update coming",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1554267542002999428",
+   "timestamp": "2026-09-28T23:04:18.908000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`51cdaeb`](https://github.com/TriggerPush/Redzs/commit/51cdaeb8b167569f013f63669ccf62c9089e4b41) Added a Simple Zombie Health Scaling with Players - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/51cdaeb8b167569f013f63669ccf62c9089e4b41",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1553132141565575174",
+   "timestamp": "2026-09-25T19:52:38.349000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`9993000`](https://github.com/TriggerPush/Redzs/commit/99930000abec843b73eb16456be48e633294169f) Fix Heal Darts being able to push players  - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/99930000abec843b73eb16456be48e633294169f",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1553114735384338516",
+   "timestamp": "2026-09-25T18:43:28.392000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`38b768e`](https://github.com/TriggerPush/Redzs/commit/38b768ead911ada04dc252dcc6353d73fc01bff3) add redeem to the content - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/38b768ead911ada04dc252dcc6353d73fc01bff3",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1553114593025335310",
+   "timestamp": "2026-09-25T18:42:54.451000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`dd917d9`](https://github.com/TriggerPush/Redzs/commit/dd917d9ee6887130937fe1c7a67bab9675e1551c) add the serverside redeem check itself - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/dd917d9ee6887130937fe1c7a67bab9675e1551c",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1553114352368750674",
+   "timestamp": "2026-09-25T18:41:57.074000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`c991fbe`](https://github.com/TriggerPush/Redzs/commit/c991fbed6fe477e1714d5a4850711e3cfe0ee39f) clientside redeem sound check - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/c991fbed6fe477e1714d5a4850711e3cfe0ee39f",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1553113981663842405",
+   "timestamp": "2026-09-25T18:40:28.691000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "redeem sound",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1553113942124138688",
+   "timestamp": "2026-09-25T18:40:19.264000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "<@1130942982556745909>  https://medal.tv/games/garrys-mod/clips/nBcwa3YB7RVyfs67h?invite=cr-MSxqTTEsMjA3NzY0MTA1",
+   "mentions": {
+    "1130942982556745909": "Trigger_Push"
+   },
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "Untitled - Clipped Garry's Mod with Medal.tv",
+     "description": "Watch Untitled by skeleton88 and millions of other Garry's Mod videos on Medal. #garrysmod",
+     "url": "https://medal.tv/games/garrys-mod/clips/nBcwa3YB7RVyfs67h?invite=cr-MSxqTTEsMjA3NzY0MTA1",
+     "color": null,
+     "author": "skeleton88",
+     "footer": null,
+     "thumbnail": "data/media/1553113942124138688-e0-thumb.jpg",
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1553108689878257744",
+   "timestamp": "2026-09-25T18:19:27.031000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`6903b5b`](https://github.com/TriggerPush/Redzs/commit/6903b5b80105dc19a409d43387d048e8d4f413f2) also nerf extinction crab - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/6903b5b80105dc19a409d43387d048e8d4f413f2",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1553108395362488321",
+   "timestamp": "2026-09-25T18:18:16.813000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`565560b`](https://github.com/TriggerPush/Redzs/commit/565560b9a921d217790d818e5ebacb78f0e3aaaf) nerf doom crab cause hes lowk a lil busted - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/565560b9a921d217790d818e5ebacb78f0e3aaaf",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1553106217323339838",
+   "timestamp": "2026-09-25T18:09:37.528000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`14904bb`](https://github.com/TriggerPush/Redzs/commit/14904bb2028e3b4c2e2016ed1493e1c9a0f2a3e4) do the same for doom crab - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/14904bb2028e3b4c2e2016ed1493e1c9a0f2a3e4",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1553106044874522735",
+   "timestamp": "2026-09-25T18:08:56.413000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`5aec064`](https://github.com/TriggerPush/Redzs/commit/5aec0648ce5a037d43352fd91c86a40728cda472) fix extinction crab size a bit - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/5aec0648ce5a037d43352fd91c86a40728cda472",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1553105300888879144",
+   "timestamp": "2026-09-25T18:05:59.033000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`2d3f9ed`](https://github.com/TriggerPush/Redzs/commit/2d3f9edc4d9be7d7115ef424764eb52fb23301ff) add same roar cooldown bar to howler - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/2d3f9edc4d9be7d7115ef424764eb52fb23301ff",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1553104106607087617",
+   "timestamp": "2026-09-25T18:01:14.294000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`9f6e730`](https://github.com/TriggerPush/Redzs/commit/9f6e73036d5529724802d34dc748e3dac4dbdd75) add the same cooldown fix  for GSC - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/9f6e73036d5529724802d34dc748e3dac4dbdd75",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1553103774606688369",
+   "timestamp": "2026-09-25T17:59:55.139000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`fb269c1`](https://github.com/TriggerPush/Redzs/commit/fb269c19031e728afa2c78f560c180a3de60c9c1) fix giga gore errors - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/fb269c19031e728afa2c78f560c180a3de60c9c1",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1553095074722619414",
+   "timestamp": "2026-09-25T17:25:20.925000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`1c5ea17`](https://github.com/TriggerPush/Redzs/commit/1c5ea17774686cf82601c17c1e995be1855311cf) fix GGC roar cool down bug - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/1c5ea17774686cf82601c17c1e995be1855311cf",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1553093906068021340",
+   "timestamp": "2026-09-25T17:20:42.296000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`012111d`](https://github.com/TriggerPush/Redzs/commit/012111d7317fb29a17d298a930eb3f691b27f390) fix spelling errors in options - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/012111d7317fb29a17d298a930eb3f691b27f390",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1552792758471626905",
+   "timestamp": "2026-09-24T21:24:03.114000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`ac2f4c3`](https://github.com/TriggerPush/Redzs/commit/ac2f4c3eaf764e00a213f5e62e93c45b614ea6b7) alright now the carryweight is actually fixed - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/ac2f4c3eaf764e00a213f5e62e93c45b614ea6b7",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1552778219919507537",
+   "timestamp": "2026-09-24T20:26:16.853000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`540d749`](https://github.com/TriggerPush/Redzs/commit/540d74994baa6c65dd17600f14f930f4c603476c) Fix Barbed Headcrab not being able to deal dmg - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/540d74994baa6c65dd17600f14f930f4c603476c",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1552776726986227793",
+   "timestamp": "2026-09-24T20:20:20.910000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`a4f6439`](https://github.com/TriggerPush/Redzs/commit/a4f6439b20b3c2f6119bb9b61abb4a5807fb868a) Fix Poison Headcrab not being able to deal dmg - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/a4f6439b20b3c2f6119bb9b61abb4a5807fb868a",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1552773504292622421",
+   "timestamp": "2026-09-24T20:07:32.560000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "https://klipy.com/gifs/mo7rib-lg-mo7rib-999",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "Mo7rib Lg Mo7rib 999",
+     "description": null,
+     "url": "https://klipy.com/gifs/mo7rib-lg-mo7rib-999",
+     "color": null,
+     "author": null,
+     "footer": null,
+     "thumbnail": "data/media/1552773504292622421-e0-thumb.webp",
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1552773433950085282",
+   "timestamp": "2026-09-24T20:07:15.789000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`79a8fc4`](https://github.com/TriggerPush/Redzs/commit/79a8fc4269d90e92098c3cefdb98bcdd1305c10e) fix for carry weight (finally) - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/79a8fc4269d90e92098c3cefdb98bcdd1305c10e",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1552729138442539072",
+   "timestamp": "2026-09-24T17:11:14.917000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`f88f81c`](https://github.com/TriggerPush/Redzs/commit/f88f81c7ac98bbff8010c52b8b139eb2fb1d7341) slight nerf for eclipse and fix - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/f88f81c7ac98bbff8010c52b8b139eb2fb1d7341",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1552059209141452883",
+   "timestamp": "2026-09-22T20:49:11.325000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`2f5d07f`](https://github.com/TriggerPush/Redzs/commit/2f5d07fdcb7499e45ebebd6ba4ad86c62c414d35) fixes and new function for the flame mechanic - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/2f5d07fdcb7499e45ebebd6ba4ad86c62c414d35",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1552056189939097686",
+   "timestamp": "2026-09-22T20:37:11.491000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`4231a15`](https://github.com/TriggerPush/Redzs/commit/4231a1572331aac97d8b61cbb4e5346dd1cacf3e) remove duplicate - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/4231a1572331aac97d8b61cbb4e5346dd1cacf3e",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1552053537691803779",
+   "timestamp": "2026-09-22T20:26:39.146000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`edcc31c`](https://github.com/TriggerPush/Redzs/commit/edcc31ce2afbd883d7925da2d9ce31d898b4a71e) new status_burn code for the pollutor projectile - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/edcc31ce2afbd883d7925da2d9ce31d898b4a71e",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1552044202626519197",
+   "timestamp": "2026-09-22T19:49:33.493000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`5a9663e`](https://github.com/TriggerPush/Redzs/commit/5a9663ebec4e777f3d6956514ed76473700f572f) add kill icon for status_burn - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/5a9663ebec4e777f3d6956514ed76473700f572f",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1552044034216825036",
+   "timestamp": "2026-09-22T19:48:53.341000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`2cd3a00`](https://github.com/TriggerPush/Redzs/commit/2cd3a00c1bb8b13ccb56f3bbe8a3bdafa56cecf7) new burn function for the inferno  - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/2cd3a00c1bb8b13ccb56f3bbe8a3bdafa56cecf7",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1552043843304820738",
+   "timestamp": "2026-09-22T19:48:07.824000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`30125e2`](https://github.com/TriggerPush/Redzs/commit/30125e2e1e620e683bcb999d527144b407b8d36e) fix burning status for the status elements update - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/30125e2e1e620e683bcb999d527144b407b8d36e",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1550643777377542258",
+   "timestamp": "2026-09-18T23:04:46.095000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`3638d29`](https://github.com/TriggerPush/Redzs/commit/3638d29da01fd49c2e74c10232fe82717821be69) Allow hammer usage while ghosting now always se... - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/3638d29da01fd49c2e74c10232fe82717821be69",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1550643186597367950",
+   "timestamp": "2026-09-18T23:02:25.242000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`be57319`](https://github.com/TriggerPush/Redzs/commit/be57319d638e97e5eb3a32a3baa599b99984d8ac) New Killicon for the new model of the Explosivo... - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/be57319d638e97e5eb3a32a3baa599b99984d8ac",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1550642815204065323",
+   "timestamp": "2026-09-18T23:00:56.695000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`c5120aa`](https://github.com/TriggerPush/Redzs/commit/c5120aaa356c7cf9f3bd8ba04d7b74c80801512a) new model and name  - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/c5120aaa356c7cf9f3bd8ba04d7b74c80801512a",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1550278222460223491",
+   "timestamp": "2026-09-17T22:52:11.011000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Trigger_Push",
+    "avatar": "https://cdn.discordapp.com/avatars/1130942982556745909/e0603ad2215dc03844d79280704703fd.png?size=64"
+   },
+   "content": "got github working",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1550278187232133252",
+   "timestamp": "2026-09-17T22:52:02.612000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Trigger_Push",
+    "avatar": "https://cdn.discordapp.com/avatars/1130942982556745909/e0603ad2215dc03844d79280704703fd.png?size=64"
+   },
+   "content": "alright",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1550278152750633024",
+   "timestamp": "2026-09-17T22:51:54.391000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`2165d3a`](https://github.com/TriggerPush/Redzs/commit/2165d3a19d10f7af36879c4363c03c700d3e1e3a) Update README.md - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redzs/commit/2165d3a19d10f7af36879c4363c03c700d3e1e3a",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ]
+  }
+ ]
+}

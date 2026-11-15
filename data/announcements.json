@@ -1,1 +1,118 @@
-{"channel":null,"lookup":{"roles":{},"channels":{}},"messages":[]}
+{
+ "channel": {
+  "id": "1550275219883823204",
+  "name": "announcements"
+ },
+ "lookup": {
+  "roles": {
+   "1550275011929972826": {
+    "name": "@everyone"
+   },
+   "1550275359734370364": {
+    "name": "Super Admin"
+   },
+   "1550275971809157210": {
+    "name": "Member"
+   },
+   "1565116453760409781": {
+    "name": "Maunz"
+   },
+   "1571379671801667758": {
+    "name": "Website Bot"
+   }
+  },
+  "channels": {
+   "1550275012903313438": "Text Channels",
+   "1550275012903313439": "Voice Channels",
+   "1550275012903313440": "general",
+   "1550275012903313442": "General",
+   "1550275083950493766": "suggestions",
+   "1550275219883823204": "announcements",
+   "1550275286438772876": "update-logs",
+   "1550276481891045416": "rules",
+   "1550277625254121632": "bugs-or-someshit-idk",
+   "1550277762990866612": "server-ip-and-content-pack",
+   "1550535917394198528": "dev-chat",
+   "1565091231359574230": "status-i-guess",
+   "1569474658133348447": "server-hub"
+  }
+ },
+ "messages": [
+  {
+   "id": "1562247543025565788",
+   "timestamp": "2026-10-20T23:33:59.413000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "https://tenor.com/view/hey-buddy-we%27re-going-to-kill-you-and-leave-you-laid-out-in-a-dumpster-to-rot-horton-hears-a-who-gif-15128071291917488469",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "title": "Hey Buddy We'Re Going To Kill You GIF - Hey buddy We're going to kill you And leave you laid out - Discover & Share GIFs",
+     "description": null,
+     "url": "https://tenor.com/view/hey-buddy-we%27re-going-to-kill-you-and-leave-you-laid-out-in-a-dumpster-to-rot-horton-hears-a-who-gif-15128071291917488469",
+     "color": null,
+     "author": null,
+     "footer": null,
+     "thumbnail": "data/media/1562247543025565788-e0-thumb.gif",
+     "fields": []
+    }
+   ]
+  },
+  {
+   "id": "1562187061027405965",
+   "timestamp": "2026-10-20T19:33:39.381000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "@everyone  playtest today?",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1561874985096843287",
+   "timestamp": "2026-10-19T22:53:34.681000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "@everyone  anyone down to playtest today?",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1561441445326487623",
+   "timestamp": "2026-10-18T18:10:50.745000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "@everyone  yo anyone down to playtest sometime soon?",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  },
+  {
+   "id": "1556760902760399020",
+   "timestamp": "2026-10-05T20:12:02.437000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "@everyone  anyone down for a playtest?",
+   "mentions": {},
+   "attachments": [],
+   "embeds": []
+  }
+ ]
+}
