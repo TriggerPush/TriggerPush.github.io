@@ -46,21 +46,16 @@
     "name": "Dark Red",
     "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
    },
-   "content": "https://tenor.com/view/hey-buddy-we%27re-going-to-kill-you-and-leave-you-laid-out-in-a-dumpster-to-rot-horton-hears-a-who-gif-15128071291917488469",
+   "content": "",
    "mentions": {},
    "attachments": [],
    "embeds": [
     {
-     "title": "Hey Buddy We'Re Going To Kill You GIF - Hey buddy We're going to kill you And leave you laid out - Discover & Share GIFs",
-     "description": null,
-     "url": "https://tenor.com/view/hey-buddy-we%27re-going-to-kill-you-and-leave-you-laid-out-in-a-dumpster-to-rot-horton-hears-a-who-gif-15128071291917488469",
-     "color": null,
-     "author": null,
-     "footer": null,
-     "thumbnail": "data/media/1562247543025565788-e0-thumb.gif",
-     "fields": []
+     "kind": "gifv",
+     "video": "data/media/1562247543025565788-e0-vid.mp4"
     }
-   ]
+   ],
+   "reactions": []
   },
   {
    "id": "1562187061027405965",
@@ -73,7 +68,25 @@
    "content": "@everyone  playtest today?",
    "mentions": {},
    "attachments": [],
-   "embeds": []
+   "embeds": [],
+   "reactions": [
+    {
+     "count": 3,
+     "emoji": {
+      "id": null,
+      "name": "✅",
+      "animated": false
+     }
+    },
+    {
+     "count": 1,
+     "emoji": {
+      "id": null,
+      "name": "❌",
+      "animated": false
+     }
+    }
+   ]
   },
   {
    "id": "1561874985096843287",
@@ -86,7 +99,25 @@
    "content": "@everyone  anyone down to playtest today?",
    "mentions": {},
    "attachments": [],
-   "embeds": []
+   "embeds": [],
+   "reactions": [
+    {
+     "count": 2,
+     "emoji": {
+      "id": null,
+      "name": "✅",
+      "animated": false
+     }
+    },
+    {
+     "count": 2,
+     "emoji": {
+      "id": null,
+      "name": "❌",
+      "animated": false
+     }
+    }
+   ]
   },
   {
    "id": "1561441445326487623",
@@ -99,7 +130,25 @@
    "content": "@everyone  yo anyone down to playtest sometime soon?",
    "mentions": {},
    "attachments": [],
-   "embeds": []
+   "embeds": [],
+   "reactions": [
+    {
+     "count": 3,
+     "emoji": {
+      "id": null,
+      "name": "✅",
+      "animated": false
+     }
+    },
+    {
+     "count": 1,
+     "emoji": {
+      "id": null,
+      "name": "❌",
+      "animated": false
+     }
+    }
+   ]
   },
   {
    "id": "1556760902760399020",
@@ -112,7 +161,25 @@
    "content": "@everyone  anyone down for a playtest?",
    "mentions": {},
    "attachments": [],
-   "embeds": []
+   "embeds": [],
+   "reactions": [
+    {
+     "count": 2,
+     "emoji": {
+      "id": null,
+      "name": "✅",
+      "animated": false
+     }
+    },
+    {
+     "count": 2,
+     "emoji": {
+      "id": null,
+      "name": "❌",
+      "animated": false
+     }
+    }
+   ]
   }
  ]
 }
