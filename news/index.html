@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>News - Zombie Survival</title>
+  <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+  <div id="bg"></div>
+  <header class="page"><h1>News</h1><p>Latest updates from the Discord</p></header>
+  <main>
+    <div id="feed"><div class="status">Loading...</div></div><button class="more" id="more" hidden>Load more</button>
+  </main>
+  <div id="lightbox"><img alt=""></div>
+  <script src="../assets/site.js"></script>
+  <script>Feed.init({ file: 'news' });</script>
+</body>
+</html>
