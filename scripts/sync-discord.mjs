@@ -29,10 +29,10 @@ async function api(p, attempt = 0) {
 
 // Discord CDN links for attachments expire, so images are copied into the repo.
 const usedMedia = new Set();
-async function mirror(url, key) {
+async function mirror(url, key, hintExt = ".bin") {
   if (!url) return url;
   try {
-    const ext = (path.extname(new URL(url).pathname).toLowerCase().replace(/[^.a-z0-9]/g, "")) || ".bin";
+    const ext = (path.extname(new URL(url).pathname).toLowerCase().replace(/[^.a-z0-9]/g, "")) || hintExt;
     const name = `${key}${ext}`;
     const file = path.join(MEDIA_DIR, name);
     usedMedia.add(name);
@@ -77,21 +77,50 @@ async function convert(m) {
     });
   }
   const embeds = [];
-  let i = 0;
+  let content = m.content || "";
+  let n = 0;
   for (const e of m.embeds || []) {
-    const n = i++;
+    const k = n++;
+    // GIFs from Tenor/Giphy/the GIF picker arrive as "gifv" embeds with a looping video
+    const host = (() => { try { return new URL(e.url).hostname; } catch { return ""; } })();
+    const isGif = e.type === "gifv" || /(^|\.)(tenor|giphy|klipy)\.com$/i.test(host);
+    const vid = e.video?.url || e.video?.proxy_url;
+    if (isGif && vid) {
+      embeds.push({ kind: "gifv", video: await mirror(vid, `${m.id}-e${k}-vid`, ".mp4") });
+      if (e.url) content = content.split(e.url).join("");
+      continue;
+    }
+    // Tenor/Giphy embed with no video: fall back to the GIF image itself
+    const gifImg = e.image?.url || e.thumbnail?.url;
+    if (isGif && gifImg) {
+      embeds.push({ kind: "image", image: await mirror(gifImg, `${m.id}-e${k}-img`, ".gif") });
+      if (e.url) content = content.split(e.url).join("");
+      continue;
+    }
+    // Direct links to image files
+    if (e.type === "image" && e.thumbnail?.url) {
+      embeds.push({ kind: "image", image: await mirror(e.thumbnail.url, `${m.id}-e${k}-img`, ".gif") });
+      if (e.url) content = content.split(e.url).join("");
+      continue;
+    }
     embeds.push({
+      kind: "rich",
       title: e.title || null, description: e.description || null, url: e.url || null, color: e.color ?? null,
       author: e.author?.name || null, footer: e.footer?.text || null,
-      image: await mirror(e.image?.url, `${m.id}-e${n}-img`),
-      thumbnail: await mirror(e.thumbnail?.url, `${m.id}-e${n}-thumb`),
+      image: await mirror(e.image?.url, `${m.id}-e${k}-img`),
+      thumbnail: await mirror(e.thumbnail?.url, `${m.id}-e${k}-thumb`),
       fields: (e.fields || []).map((f) => ({ name: f.name, value: f.value })),
     });
   }
+  content = content.trim();
+  const reactions = (m.reactions || []).map((r) => ({
+    count: r.count,
+    emoji: { id: r.emoji.id || null, name: r.emoji.name, animated: !!r.emoji.animated },
+  }));
   return {
     id: m.id, timestamp: m.timestamp, edited: m.edited_timestamp,
     author: { name: m.author.global_name || m.author.username, avatar: avatarOf(m.author) },
-    content: m.content || "", mentions, attachments, embeds,
+    content, mentions, attachments, embeds, reactions,
   };
 }
 
