@@ -101,7 +101,19 @@
       '<span class="msg-author">' + esc(m.author.name) + '</span><span class="msg-time">' + esc(when) + (m.edited ? " (edited)" : "") + "</span></div>";
     if (m.content) h += '<div class="msg-body">' + md(m.content, { lookup: data.lookup, mentions: m.mentions }) + "</div>";
     if (m.attachments && m.attachments.length) h += '<div class="msg-media">' + m.attachments.map(mediaEl).join("") + "</div>";
-    (m.embeds || []).forEach(function (e) { h += embedEl(e, { lookup: data.lookup, mentions: m.mentions }); });
+    (m.embeds || []).forEach(function (e) {
+      if (e.kind === "gifv") h += '<div class="msg-media"><video autoplay loop muted playsinline disablepictureinpicture src="' + esc(asset(e.video)) + '"></video></div>';
+      else if (e.kind === "image") h += '<div class="msg-media"><img loading="lazy" src="' + esc(asset(e.image)) + '" alt=""></div>';
+      else h += embedEl(e, { lookup: data.lookup, mentions: m.mentions });
+    });
+    if (m.reactions && m.reactions.length) {
+      h += '<div class="reactions">' + m.reactions.map(function (r) {
+        var em = r.emoji.id
+          ? '<img class="emoji" src="https://cdn.discordapp.com/emojis/' + r.emoji.id + (r.emoji.animated ? ".gif" : ".webp") + '?size=48" alt=":' + esc(r.emoji.name || "emoji") + ':">'
+          : "<span>" + esc(r.emoji.name || "") + "</span>";
+        return '<span class="reaction">' + em + "<span>" + r.count + "</span></span>";
+      }).join("") + "</div>";
+    }
     el.innerHTML = h;
     return el;
   }
