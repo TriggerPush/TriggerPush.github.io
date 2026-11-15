@@ -6,7 +6,7 @@ const TOKEN = process.env.DISCORD_BOT_TOKEN;
 if (!TOKEN) { console.error("Missing DISCORD_BOT_TOKEN secret"); process.exit(1); }
 
 const CHANNELS = {
-  news: "1550275286438772876",          // "updates" channel
+  "update-logs": "1550275286438772876", // "updates" channel
   announcements: "1550275219883823204",
 };
 const MAX_MESSAGES = 200;               // newest messages kept per channel

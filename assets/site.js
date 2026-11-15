@@ -1,12 +1,4 @@
 (function () {
-  // Same random background as the loading screen (files live in /bg)
-  var backgrounds = ["bg/1.jpg", "bg/2.jpg", "bg/3.jpg"];
-  var bg = document.getElementById("bg");
-  if (bg && backgrounds.length) {
-    var pick = backgrounds[Math.floor(Math.random() * backgrounds.length)];
-    bg.style.backgroundImage = "url('../" + pick + "')";
-  }
-
   var esc = function (s) {
     return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
   };
@@ -131,7 +123,7 @@
         .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
         .then(function (d) {
           data = d; feed.innerHTML = "";
-          if (!d.messages.length) { feed.innerHTML = '<div class="status">Nothing posted yet. Check back soon.</div>'; return; }
+          if (!d.messages.length) { feed.innerHTML = '<div class="status">' + esc(opts.empty || "Nothing here yet.") + '</div>'; return; }
           render();
         })
         .catch(function () { feed.innerHTML = '<div class="status">Could not load messages. Try refreshing the page.</div>'; });
@@ -139,23 +131,20 @@
     }
   };
 
-  window.Gallery = {
+  // Art: one random image per page load, nothing else on screen
+  window.Art = {
     init: function () {
-      var g = document.getElementById("gallery"), box = document.getElementById("lightbox");
       fetch("manifest.json", { cache: "no-cache" })
         .then(function (r) { return r.json(); })
         .then(function (d) {
-          if (!d.images.length) { g.innerHTML = '<div class="status">No artwork yet. Add images to the art folder.</div>'; return; }
-          g.innerHTML = d.images.map(function (i) {
-            return '<figure><img loading="lazy" src="' + esc(asset(i.src)) + '" alt="' + esc(i.name) + '"><figcaption>' + esc(i.name) + "</figcaption></figure>";
-          }).join("");
+          if (!d.images.length) return;
+          var i = d.images[Math.floor(Math.random() * d.images.length)];
+          var img = document.createElement("img");
+          img.alt = "";
+          img.src = asset(i.src);
+          document.body.appendChild(img);
         })
-        .catch(function () { g.innerHTML = '<div class="status">Could not load the gallery. Try refreshing the page.</div>'; });
-      g.addEventListener("click", function (e) {
-        if (e.target.tagName === "IMG") { box.querySelector("img").src = e.target.src; box.classList.add("open"); }
-      });
-      box.addEventListener("click", function () { box.classList.remove("open"); });
-      document.addEventListener("keydown", function (e) { if (e.key === "Escape") box.classList.remove("open"); });
+        .catch(function () {});
     }
   };
 })();
