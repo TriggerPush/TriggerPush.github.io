@@ -38,6 +38,56 @@
  },
  "messages": [
   {
+   "id": "1572062077927956512",
+   "timestamp": "2026-11-17T01:33:26.879000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[TriggerPush/Redzs] New comment on commit `7a8fdec`",
+     "description": "...defender assault rifle",
+     "url": "https://github.com/TriggerPush/Redzs/commit/7a8fdecac29232099f99c91585bad1696534cd3c#commitcomment-210375099",
+     "color": null,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
+   "id": "1572061962370687068",
+   "timestamp": "2026-11-17T01:32:59.328000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`7a8fdec`](https://github.com/TriggerPush/Redzs/commit/7a8fdecac29232099f99c91585bad1696534cd3c) fixed descriptions for the chipper shotgun and  - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/7a8fdecac29232099f99c91585bad1696534cd3c",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1571416006654558340",
    "timestamp": "2026-11-15T06:46:11.484000+00:00",
    "edited": null,
