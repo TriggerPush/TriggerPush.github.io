@@ -38,6 +38,31 @@
  },
  "messages": [
   {
+   "id": "1572385237000921131",
+   "timestamp": "2026-11-17T22:57:34.006000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`cc21319`](https://github.com/TriggerPush/Redzs/commit/cc21319cead8db63f4aa8f5677e3612a2a88c202) New shop menu - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redzs/commit/cc21319cead8db63f4aa8f5677e3612a2a88c202",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1572373988770979964",
    "timestamp": "2026-11-17T22:12:52.219000+00:00",
    "edited": null,
