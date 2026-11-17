@@ -38,6 +38,81 @@
  },
  "messages": [
   {
+   "id": "1572070679095025675",
+   "timestamp": "2026-11-17T02:07:37.557000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "they start spawning at wave 2 intermission all the way till wave 5 intermission",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [],
+   "reactions": []
+  },
+  {
+   "id": "1572070494188998759",
+   "timestamp": "2026-11-17T02:06:53.472000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "red collected a supply crate: 'Peashooter' Handgun, +80 ammo, +12 scrap, +35 XP",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [],
+   "reactions": []
+  },
+  {
+   "id": "1572070416321749002",
+   "timestamp": "2026-11-17T02:06:34.907000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [
+    {
+     "url": "data/media/1572070416321749002-1572070416040591521.png",
+     "name": "image.png",
+     "type": "image/png",
+     "width": 536,
+     "height": 485
+    }
+   ],
+   "embeds": [],
+   "reactions": []
+  },
+  {
+   "id": "1572070338257494213",
+   "timestamp": "2026-11-17T02:06:16.295000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`bebb46d`](https://github.com/TriggerPush/Redzs/commit/bebb46d69da5429fa6ce1deac9f95678ccda4d41)  new Loot crate update - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/bebb46d69da5429fa6ce1deac9f95678ccda4d41",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1572062077927956512",
    "timestamp": "2026-11-17T01:33:26.879000+00:00",
    "edited": null,
