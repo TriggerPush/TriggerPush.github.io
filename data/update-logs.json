@@ -38,6 +38,31 @@
  },
  "messages": [
   {
+   "id": "1573143368350040075",
+   "timestamp": "2026-11-20T01:10:06.605000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`8cd616a`](https://github.com/TriggerPush/Redcore/commit/8cd616afb670cda06d664b8171e9ee4f62fc0d5a) add chatbox settings - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redcore/commit/8cd616afb670cda06d664b8171e9ee4f62fc0d5a",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1573126367204081769",
    "timestamp": "2026-11-20T00:02:33.216000+00:00",
    "edited": null,
