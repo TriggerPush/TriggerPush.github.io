@@ -38,6 +38,56 @@
  },
  "messages": [
   {
+   "id": "1573126367204081769",
+   "timestamp": "2026-11-20T00:02:33.216000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`0cb8939`](https://github.com/TriggerPush/Redcore/commit/0cb8939c0675daee8cd080daabb2c97f12d0b02f) Remove this, again... - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/0cb8939c0675daee8cd080daabb2c97f12d0b02f",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
+   "id": "1573126075209351192",
+   "timestamp": "2026-11-20T00:01:23.599000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`2d4b2fd`](https://github.com/TriggerPush/Redcore/commit/2d4b2fdbc2acd6027bc02ed3313799d6f7838bf8) chatbox, emojis, and general improvements - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/2d4b2fdbc2acd6027bc02ed3313799d6f7838bf8",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1572841818406522952",
    "timestamp": "2026-11-19T05:11:51.496000+00:00",
    "edited": null,
