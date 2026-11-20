@@ -38,6 +38,31 @@
  },
  "messages": [
   {
+   "id": "1573177888189190275",
+   "timestamp": "2026-11-20T03:27:16.776000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`6799b3f`](https://github.com/TriggerPush/Redcore/commit/6799b3f6c727b11bd3df9366cd0aaf9e11f2b2cc) Add @mentions to the chat and various improvements - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redcore/commit/6799b3f6c727b11bd3df9366cd0aaf9e11f2b2cc",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1573147232918831187",
    "timestamp": "2026-11-20T01:25:27.990000+00:00",
    "edited": null,
