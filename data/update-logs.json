@@ -38,6 +38,31 @@
  },
  "messages": [
   {
+   "id": "1573811084446400643",
+   "timestamp": "2026-11-21T21:23:22.528000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`4641e4a`](https://github.com/TriggerPush/Redcore/commit/4641e4acf07c8db0a1450f72073ed3f0e936a2df) change this back to 20 - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redcore/commit/4641e4acf07c8db0a1450f72073ed3f0e936a2df",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1573809905356243015",
    "timestamp": "2026-11-21T21:18:41.411000+00:00",
    "edited": null,
