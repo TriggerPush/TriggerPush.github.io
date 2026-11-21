@@ -38,6 +38,31 @@
  },
  "messages": [
   {
+   "id": "1573495492984311951",
+   "timestamp": "2026-11-21T00:29:19.660000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`323d8a3`](https://github.com/TriggerPush/Redzs/commit/323d8a31bd18eed1a408b8481a09f06d4951db62) fix thirdperson again - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redzs/commit/323d8a31bd18eed1a408b8481a09f06d4951db62",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1573473034356916396",
    "timestamp": "2026-11-20T23:00:05.106000+00:00",
    "edited": null,
