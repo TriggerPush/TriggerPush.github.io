@@ -38,6 +38,59 @@
  },
  "messages": [
   {
+   "id": "1573776887292108996",
+   "timestamp": "2026-11-21T19:07:29.291000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "still need to remove stuff",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [],
+   "reactions": []
+  },
+  {
+   "id": "1573776842370842680",
+   "timestamp": "2026-11-21T19:07:18.581000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "also removed most of the bugged and just unnecessary bullshit",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [],
+   "reactions": []
+  },
+  {
+   "id": "1573776376312631418",
+   "timestamp": "2026-11-21T19:05:27.464000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`ef35daf`](https://github.com/TriggerPush/Redcore/commit/ef35daf313028f73a79f1f5b5c1f74fae1dbe31e) Add Work in progress cosmetics again - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redcore/commit/ef35daf313028f73a79f1f5b5c1f74fae1dbe31e",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1573775957318180945",
    "timestamp": "2026-11-21T19:03:47.568000+00:00",
    "edited": null,
