@@ -38,6 +38,31 @@
  },
  "messages": [
   {
+   "id": "1573809905356243015",
+   "timestamp": "2026-11-21T21:18:41.411000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`cbc6d0b`](https://github.com/TriggerPush/Redcore/commit/cbc6d0b60005e9de4e32c23e41f1f2c657b301a5) added new tags system w.i.p +more improvements - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redcore/commit/cbc6d0b60005e9de4e32c23e41f1f2c657b301a5",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1573776887292108996",
    "timestamp": "2026-11-21T19:07:29.291000+00:00",
    "edited": null,
