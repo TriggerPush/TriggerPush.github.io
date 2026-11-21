@@ -38,6 +38,31 @@
  },
  "messages": [
   {
+   "id": "1573775957318180945",
+   "timestamp": "2026-11-21T19:03:47.568000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`2dd3a21`](https://github.com/TriggerPush/Redcore/commit/2dd3a214e133749aca1a350b59e32553f236ecb4) accidentally fucked up the directories but no b... - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redcore/commit/2dd3a214e133749aca1a350b59e32553f236ecb4",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1573555392275939439",
    "timestamp": "2026-11-21T04:27:20.764000+00:00",
    "edited": null,
