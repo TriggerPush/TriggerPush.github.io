@@ -38,6 +38,56 @@
  },
  "messages": [
   {
+   "id": "1573946759783129179",
+   "timestamp": "2026-11-22T06:22:30.049000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`96e0920`](https://github.com/TriggerPush/Redcore/commit/96e0920382079091961a43d29edeab914ac21b7b) oops, wrong file - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/96e0920382079091961a43d29edeab914ac21b7b",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
+   "id": "1573946437903843380",
+   "timestamp": "2026-11-22T06:21:13.307000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`f1e5af7`](https://github.com/TriggerPush/Redcore/commit/f1e5af77a7a99f3a35f755284d0f317ab5f59408) Add discord to cl chat along with other fixes - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/f1e5af77a7a99f3a35f755284d0f317ab5f59408",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1573946034139431035",
    "timestamp": "2026-11-22T06:19:37.042000+00:00",
    "edited": null,
@@ -4580,56 +4630,6 @@
      "title": "[Redzs:main] 1 new commit",
      "description": "[`30125e2`](https://github.com/TriggerPush/Redzs/commit/30125e2e1e620e683bcb999d527144b407b8d36e) fix burning status for the status elements update - LOLAIM3423423432",
      "url": "https://github.com/TriggerPush/Redzs/commit/30125e2e1e620e683bcb999d527144b407b8d36e",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1550643777377542258",
-   "timestamp": "2026-09-18T23:04:46.095000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`3638d29`](https://github.com/TriggerPush/Redzs/commit/3638d29da01fd49c2e74c10232fe82717821be69) Allow hammer usage while ghosting now always se... - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/3638d29da01fd49c2e74c10232fe82717821be69",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1550643186597367950",
-   "timestamp": "2026-09-18T23:02:25.242000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`be57319`](https://github.com/TriggerPush/Redzs/commit/be57319d638e97e5eb3a32a3baa599b99984d8ac) New Killicon for the new model of the Explosivo... - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/be57319d638e97e5eb3a32a3baa599b99984d8ac",
      "color": 7506394,
      "author": "LOLAIM3423423432",
      "footer": null,
