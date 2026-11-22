@@ -38,6 +38,31 @@
  },
  "messages": [
   {
+   "id": "1573916529043443873",
+   "timestamp": "2026-11-22T04:22:22.479000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`ab574cb`](https://github.com/TriggerPush/Redcore/commit/ab574cba22748d7442dde8b8da22a7e8d417def4) New Emojis - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/ab574cba22748d7442dde8b8da22a7e8d417def4",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1573914757856104489",
    "timestamp": "2026-11-22T04:15:20.195000+00:00",
    "edited": null,
@@ -4611,20 +4636,6 @@
      "fields": []
     }
    ],
-   "reactions": []
-  },
-  {
-   "id": "1550278222460223491",
-   "timestamp": "2026-09-17T22:52:11.011000+00:00",
-   "edited": null,
-   "author": {
-    "name": "Trigger_Push",
-    "avatar": "https://cdn.discordapp.com/avatars/1130942982556745909/e0603ad2215dc03844d79280704703fd.png?size=64"
-   },
-   "content": "got github working",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [],
    "reactions": []
   }
  ]
