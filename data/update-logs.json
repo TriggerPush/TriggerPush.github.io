@@ -38,6 +38,31 @@
  },
  "messages": [
   {
+   "id": "1573878554842890331",
+   "timestamp": "2026-11-22T01:51:28.724000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`fadfa0c`](https://github.com/TriggerPush/Redzs/commit/fadfa0c7625886bf53dcc38bb68745d6eee588c1) nerf Power Gauntlet and Razor Trinket - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/fadfa0c7625886bf53dcc38bb68745d6eee588c1",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1573859052163694718",
    "timestamp": "2026-11-22T00:33:58.923000+00:00",
    "edited": null,
@@ -4589,31 +4614,6 @@
    "mentions": {},
    "attachments": [],
    "embeds": [],
-   "reactions": []
-  },
-  {
-   "id": "1550278152750633024",
-   "timestamp": "2026-09-17T22:51:54.391000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`2165d3a`](https://github.com/TriggerPush/Redzs/commit/2165d3a19d10f7af36879c4363c03c700d3e1e3a) Update README.md - TriggerPush",
-     "url": "https://github.com/TriggerPush/Redzs/commit/2165d3a19d10f7af36879c4363c03c700d3e1e3a",
-     "color": 7506394,
-     "author": "TriggerPush",
-     "footer": null,
-     "fields": []
-    }
-   ],
    "reactions": []
   }
  ]
