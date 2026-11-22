@@ -38,6 +38,31 @@
  },
  "messages": [
   {
+   "id": "1573946034139431035",
+   "timestamp": "2026-11-22T06:19:37.042000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`70fb623`](https://github.com/TriggerPush/Redcore/commit/70fb623a13bd1b1e0361f02ee752f02847324422) New emojis - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/70fb623a13bd1b1e0361f02ee752f02847324422",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1573916529043443873",
    "timestamp": "2026-11-22T04:22:22.479000+00:00",
    "edited": null,
@@ -4605,31 +4630,6 @@
      "title": "[Redzs:main] 1 new commit",
      "description": "[`be57319`](https://github.com/TriggerPush/Redzs/commit/be57319d638e97e5eb3a32a3baa599b99984d8ac) New Killicon for the new model of the Explosivo... - LOLAIM3423423432",
      "url": "https://github.com/TriggerPush/Redzs/commit/be57319d638e97e5eb3a32a3baa599b99984d8ac",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1550642815204065323",
-   "timestamp": "2026-09-18T23:00:56.695000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`c5120aa`](https://github.com/TriggerPush/Redzs/commit/c5120aaa356c7cf9f3bd8ba04d7b74c80801512a) new model and name  - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/c5120aaa356c7cf9f3bd8ba04d7b74c80801512a",
      "color": 7506394,
      "author": "LOLAIM3423423432",
      "footer": null,
