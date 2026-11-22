@@ -38,6 +38,31 @@
  },
  "messages": [
   {
+   "id": "1573914757856104489",
+   "timestamp": "2026-11-22T04:15:20.195000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`78ae01b`](https://github.com/TriggerPush/Redcore/commit/78ae01b2001528ce86f50cd0ac1048a613b83cf1) fixes - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redcore/commit/78ae01b2001528ce86f50cd0ac1048a613b83cf1",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1573878554842890331",
    "timestamp": "2026-11-22T01:51:28.724000+00:00",
    "edited": null,
@@ -4597,20 +4622,6 @@
     "avatar": "https://cdn.discordapp.com/avatars/1130942982556745909/e0603ad2215dc03844d79280704703fd.png?size=64"
    },
    "content": "got github working",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [],
-   "reactions": []
-  },
-  {
-   "id": "1550278187232133252",
-   "timestamp": "2026-09-17T22:52:02.612000+00:00",
-   "edited": null,
-   "author": {
-    "name": "Trigger_Push",
-    "avatar": "https://cdn.discordapp.com/avatars/1130942982556745909/e0603ad2215dc03844d79280704703fd.png?size=64"
-   },
-   "content": "alright",
    "mentions": {},
    "attachments": [],
    "embeds": [],
