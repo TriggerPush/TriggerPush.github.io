@@ -154,9 +154,12 @@
           var img = document.createElement("img");
           img.alt = "";
           img.src = asset(i.src);
+          // Inline styles so scaling works even if style.css is cached or overridden
+          img.style.cssText = "position:fixed;top:0;left:0;width:100%;height:100%;max-width:none;max-height:none;object-fit:contain;display:block;";
+          document.body.style.cssText += ";margin:0;overflow:hidden;background:#000;";
           document.body.appendChild(img);
         })
-        .catch(function () {});
+        .catch(function (err) { console.error("Art failed to load:", err); });
     }
   };
 })();
