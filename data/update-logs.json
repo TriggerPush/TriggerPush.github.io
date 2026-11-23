@@ -19,6 +19,12 @@
    },
    "1571379671801667758": {
     "name": "Website Bot"
+   },
+   "1574284015509184624": {
+    "name": "Admin"
+   },
+   "1574284176020996117": {
+    "name": "Mod"
    }
   },
   "channels": {
@@ -37,6 +43,31 @@
   }
  },
  "messages": [
+  {
+   "id": "1574284099458433060",
+   "timestamp": "2026-11-23T04:42:58.095000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`15e36c9`](https://github.com/TriggerPush/Redcore/commit/15e36c97aefd20fbd0cdf1b4093bca636356c9fd) update lots of stuffs. Many admin fixes. Chat c... - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/15e36c97aefd20fbd0cdf1b4093bca636356c9fd",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
   {
    "id": "1573946759783129179",
    "timestamp": "2026-11-22T06:22:30.049000+00:00",
@@ -4605,31 +4636,6 @@
      "title": "[Redzs:main] 1 new commit",
      "description": "[`2cd3a00`](https://github.com/TriggerPush/Redzs/commit/2cd3a00c1bb8b13ccb56f3bbe8a3bdafa56cecf7) new burn function for the inferno  - LOLAIM3423423432",
      "url": "https://github.com/TriggerPush/Redzs/commit/2cd3a00c1bb8b13ccb56f3bbe8a3bdafa56cecf7",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1552043843304820738",
-   "timestamp": "2026-09-22T19:48:07.824000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`30125e2`](https://github.com/TriggerPush/Redzs/commit/30125e2e1e620e683bcb999d527144b407b8d36e) fix burning status for the status elements update - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/30125e2e1e620e683bcb999d527144b407b8d36e",
      "color": 7506394,
      "author": "LOLAIM3423423432",
      "footer": null,
