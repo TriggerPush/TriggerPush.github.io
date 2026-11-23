@@ -44,6 +44,31 @@
  },
  "messages": [
   {
+   "id": "1574284819444011161",
+   "timestamp": "2026-11-23T04:45:49.753000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`04ba2f5`](https://github.com/TriggerPush/Redcore/commit/04ba2f54615004a61e2ce60e223e4469683d3a4b) update autorun - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/04ba2f54615004a61e2ce60e223e4469683d3a4b",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1574284099458433060",
    "timestamp": "2026-11-23T04:42:58.095000+00:00",
    "edited": null,
@@ -4611,31 +4636,6 @@
      "title": "[Redzs:main] 1 new commit",
      "description": "[`5a9663e`](https://github.com/TriggerPush/Redzs/commit/5a9663ebec4e777f3d6956514ed76473700f572f) add kill icon for status_burn - LOLAIM3423423432",
      "url": "https://github.com/TriggerPush/Redzs/commit/5a9663ebec4e777f3d6956514ed76473700f572f",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1552044034216825036",
-   "timestamp": "2026-09-22T19:48:53.341000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`2cd3a00`](https://github.com/TriggerPush/Redzs/commit/2cd3a00c1bb8b13ccb56f3bbe8a3bdafa56cecf7) new burn function for the inferno  - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/2cd3a00c1bb8b13ccb56f3bbe8a3bdafa56cecf7",
      "color": 7506394,
      "author": "LOLAIM3423423432",
      "footer": null,
