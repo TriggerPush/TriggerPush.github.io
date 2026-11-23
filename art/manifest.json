@@ -1,3 +1,12 @@
 {
- "images": []
+ "images": [
+  {
+   "src": "art/4t70wsh.png",
+   "name": "4t70wsh"
+  },
+  {
+   "src": "art/7f0fn4w.png",
+   "name": "7f0fn4w"
+  }
+ ]
 }
