@@ -112,6 +112,16 @@
       max-height: 14vh;
     }
 
+    /* logo, top right (hidden when the rare rlove image takes the spot) */
+    #logo {
+      display: none;
+      position: fixed;
+      top: 2vh;
+      right: 2vw;
+      max-width: 24vw;
+      max-height: 26vh;
+    }
+
     /* quote of the day */
     #qotd {
       margin-bottom: 18px;
@@ -149,6 +159,7 @@
   </div>
 
   <img id="rlove" src="rlove.png" alt="">
+  <img id="logo" src="logo.png" alt="" onerror="this.style.display='none'">
 
   <div id="bottom">
     <div id="qotd">
@@ -190,6 +201,9 @@
     // 1/100 chance to show rlove.png in the corner (add #rlove to the URL to force it for testing)
     if (Math.floor(Math.random() * 100) === 0 || location.hash === "#rlove") {
       document.getElementById("rlove").style.display = "block";
+    } else {
+      // Nothing in the top right, so show the logo
+      document.getElementById("logo").style.display = "block";
     }
 
     // Garry's Mod loading screen callbacks
