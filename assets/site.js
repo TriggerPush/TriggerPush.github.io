@@ -154,9 +154,22 @@
           var img = document.createElement("img");
           img.alt = "";
           img.src = asset(i.src);
-          // Inline styles so scaling works even if style.css is cached or overridden
-          img.style.cssText = "position:fixed;top:0;left:0;width:100%;height:100%;max-width:none;max-height:none;object-fit:contain;display:block;";
+          // Size the image with JS so it always fits the window, up or down,
+          // regardless of what style.css says
+          img.style.cssText = "position:fixed;max-width:none;max-height:none;display:block;object-fit:contain;";
           document.body.style.cssText += ";margin:0;overflow:hidden;background:#000;";
+          var fit = function () {
+            var w = img.naturalWidth, h = img.naturalHeight;
+            if (!w || !h) { img.style.cssText += "top:0;left:0;width:100%;height:100%;"; return; }
+            var s = Math.min(window.innerWidth / w, window.innerHeight / h);
+            img.style.width = Math.round(w * s) + "px";
+            img.style.height = Math.round(h * s) + "px";
+            img.style.left = Math.round((window.innerWidth - w * s) / 2) + "px";
+            img.style.top = Math.round((window.innerHeight - h * s) / 2) + "px";
+          };
+          img.addEventListener("load", fit);
+          window.addEventListener("resize", fit);
+          console.log("Art: fit script v3 loaded");
           document.body.appendChild(img);
         })
         .catch(function (err) { console.error("Art failed to load:", err); });
