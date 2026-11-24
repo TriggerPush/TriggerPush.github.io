@@ -44,6 +44,56 @@
  },
  "messages": [
   {
+   "id": "1574892122635767999",
+   "timestamp": "2026-11-24T20:59:02.117000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`fd47438`](https://github.com/TriggerPush/Redcore/commit/fd47438676175424f887120c73c722ea39e926f5) Delete data/redcore directory - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/fd47438676175424f887120c73c722ea39e926f5",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
+   "id": "1574892082584355068",
+   "timestamp": "2026-11-24T20:58:52.568000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`2e8a41d`](https://github.com/TriggerPush/Redcore/commit/2e8a41d1bb6368c1ab354cb7c427da02fb79edbb) Delete data/redcore/voicemenu directory - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/2e8a41d1bb6368c1ab354cb7c427da02fb79edbb",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1574879494328553486",
    "timestamp": "2026-11-24T20:08:51.294000+00:00",
    "edited": null,
@@ -4581,56 +4631,6 @@
      "title": "[Redzs:main] 1 new commit",
      "description": "[`fb269c1`](https://github.com/TriggerPush/Redzs/commit/fb269c19031e728afa2c78f560c180a3de60c9c1) fix giga gore errors - LOLAIM3423423432",
      "url": "https://github.com/TriggerPush/Redzs/commit/fb269c19031e728afa2c78f560c180a3de60c9c1",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1553095074722619414",
-   "timestamp": "2026-09-25T17:25:20.925000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`1c5ea17`](https://github.com/TriggerPush/Redzs/commit/1c5ea17774686cf82601c17c1e995be1855311cf) fix GGC roar cool down bug - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/1c5ea17774686cf82601c17c1e995be1855311cf",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1553093906068021340",
-   "timestamp": "2026-09-25T17:20:42.296000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`012111d`](https://github.com/TriggerPush/Redzs/commit/012111d7317fb29a17d298a930eb3f691b27f390) fix spelling errors in options - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/012111d7317fb29a17d298a930eb3f691b27f390",
      "color": 7506394,
      "author": "LOLAIM3423423432",
      "footer": null,
