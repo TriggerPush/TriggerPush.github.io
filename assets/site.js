@@ -147,6 +147,9 @@
   window.Art = {
     init: function () {
       // Add #debug to the page URL to see an on-screen readout of what loaded
+      // true = image fills the whole window (edges may be cropped, no black bars)
+      // false = whole image visible (black bars if the shapes differ)
+      var FILL = true;
       var debug = /debug/.test(location.hash), note = null;
       var say = function (t) {
         console.log("Art:", t);
@@ -165,12 +168,12 @@
           var img = document.createElement("img"), tries = 0;
           img.alt = "";
           // Sized with JS so it always fits the window, up or down, whatever style.css says
-          img.style.cssText = "position:fixed;max-width:none;max-height:none;display:block;object-fit:contain;" + (debug ? "background:#555;" : "");
+          img.style.cssText = "position:fixed;max-width:none;max-height:none;display:block;object-fit:cover;" + (debug ? "background:#555;" : "");
           document.body.style.cssText += ";margin:0;overflow:hidden;background:#000;";
           var fit = function () {
             var w = img.naturalWidth, h = img.naturalHeight;
             if (!w || !h) { img.style.top = "0"; img.style.left = "0"; img.style.width = "100%"; img.style.height = "100%"; return; }
-            var k = Math.min(window.innerWidth / w, window.innerHeight / h);
+            var k = (FILL ? Math.max : Math.min)(window.innerWidth / w, window.innerHeight / h);
             img.style.width = Math.round(w * k) + "px";
             img.style.height = Math.round(h * k) + "px";
             img.style.left = Math.round((window.innerWidth - w * k) / 2) + "px";
