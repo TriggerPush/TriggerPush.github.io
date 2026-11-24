@@ -151,15 +151,15 @@
 </head>
 <body>
   <div id="bg"></div>
-  <div id="main"><img src="image.png" alt=""></div>
+  <div id="main"><img id="mainimg" alt=""></div>
 
   <div id="info">
     <div id="servername">Zombie Survival</div>
     <div id="meta"><b>Map</b> <span id="map">—</span> &nbsp;·&nbsp; <b>Gamemode</b> <span id="gm">—</span></div>
   </div>
 
-  <img id="rlove" src="rlove.png" alt="">
-  <img id="logo" src="logo.png" alt="" onerror="this.style.display='none'">
+  <img id="rlove" alt="">
+  <img id="logo" alt="">
 
   <div id="bottom">
     <div id="qotd">
@@ -172,16 +172,64 @@
   </div>
 
   <script>
-    // Random background: list the files you put in the bg folder here
+    // Add #debug to the page URL to see which images loaded and which are missing
+    var debug = location.hash.indexOf("debug") !== -1, panel = null;
+    function log(msg) {
+      if (window.console) console.log(msg);
+      if (!debug) return;
+      if (!panel) {
+        panel = document.createElement("div");
+        panel.style.cssText = "position:fixed;left:8px;top:40vh;z-index:9;padding:6px 10px;background:rgba(0,0,0,.85);color:#0f0;font:12px monospace;max-width:80vw;";
+        document.body.appendChild(panel);
+      }
+      var d = document.createElement("div");
+      d.textContent = msg;
+      panel.appendChild(d);
+    }
+
+    // Finds a working file for an image path. Tries the path as written first, then
+    // other common extensions (GitHub Pages is case-sensitive: .JPG is not .jpg).
+    var exts = ["jpg", "jpeg", "png", "webp", "gif", "JPG", "JPEG", "PNG"];
+    function resolveImage(path, cb) {
+      var base = path.slice(0, path.lastIndexOf("."));
+      var list = [path];
+      for (var k = 0; k < exts.length; k++) {
+        var c = base + "." + exts[k];
+        if (list.indexOf(c) < 0) list.push(c);
+      }
+      var n = 0;
+      (function next() {
+        if (n >= list.length) { log("MISSING: " + path); cb(null); return; }
+        var p = list[n++], im = new Image();
+        im.onload = function () {
+          log(p === path ? "ok: " + p + " (" + im.naturalWidth + "x" + im.naturalHeight + ")" : path + " not found, using " + p);
+          cb(p);
+        };
+        im.onerror = next;
+        im.src = p;
+      })();
+    }
+
+    // Random background: list the files you put in the bg folder here.
+    // If one is missing or broken, another is tried.
     var backgrounds = [
       "bg/1.jpg",
       "bg/2.jpg",
       "bg/3.jpg"
     ];
-    if (backgrounds.length) {
-      var pick = backgrounds[Math.floor(Math.random() * backgrounds.length)];
-      document.getElementById("bg").style.backgroundImage = "url('" + pick + "')";
-    }
+    (function pickBg(list) {
+      if (!list.length) return;
+      var i = Math.floor(Math.random() * list.length);
+      resolveImage(list[i], function (p) {
+        if (p) document.getElementById("bg").style.backgroundImage = "url('" + p + "')";
+        else { list.splice(i, 1); pickBg(list); }
+      });
+    })(backgrounds.slice());
+
+    // Main centered image
+    resolveImage("image.png", function (p) {
+      if (p) document.getElementById("mainimg").src = p;
+    });
 
     // Quote of the day: add your own quotes here (changes once per day)
     var quotes = [
@@ -198,13 +246,12 @@
       document.getElementById("qotd").style.display = "none";
     }
 
-    // 1/100 chance to show rlove.png in the corner (add #rlove to the URL to force it for testing)
-    if (Math.floor(Math.random() * 100) === 0 || location.hash === "#rlove") {
-      document.getElementById("rlove").style.display = "block";
-    } else {
-      // Nothing in the top right, so show the logo
-      document.getElementById("logo").style.display = "block";
-    }
+    // Top right corner: 1/100 chance of rlove.png (add #rlove to the URL to force it), otherwise logo.png
+    var showRare = Math.floor(Math.random() * 100) === 0 || location.hash.indexOf("rlove") !== -1;
+    var corner = document.getElementById(showRare ? "rlove" : "logo");
+    resolveImage(showRare ? "rlove.png" : "logo.png", function (p) {
+      if (p) { corner.src = p; corner.style.display = "block"; }
+    });
 
     // Garry's Mod loading screen callbacks
     var total = 0, needed = 0;
