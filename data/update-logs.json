@@ -44,6 +44,56 @@
  },
  "messages": [
   {
+   "id": "1574875368869855293",
+   "timestamp": "2026-11-24T19:52:27.708000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`7ff325f`](https://github.com/TriggerPush/Redcore/commit/7ff325fcffaa0730472625bbe90804a78be74646) adding files - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/7ff325fcffaa0730472625bbe90804a78be74646",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
+   "id": "1574875102397464671",
+   "timestamp": "2026-11-24T19:51:24.176000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`3208446`](https://github.com/TriggerPush/Redcore/commit/3208446b9820fed9129b96c58a829e64e51a259c) Create 1 - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/3208446b9820fed9129b96c58a829e64e51a259c",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1574874827880398970",
    "timestamp": "2026-11-24T19:50:18.726000+00:00",
    "edited": null,
@@ -4586,56 +4636,6 @@
      "title": "[Redzs:main] 1 new commit",
      "description": "[`79a8fc4`](https://github.com/TriggerPush/Redzs/commit/79a8fc4269d90e92098c3cefdb98bcdd1305c10e) fix for carry weight (finally) - LOLAIM3423423432",
      "url": "https://github.com/TriggerPush/Redzs/commit/79a8fc4269d90e92098c3cefdb98bcdd1305c10e",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1552729138442539072",
-   "timestamp": "2026-09-24T17:11:14.917000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`f88f81c`](https://github.com/TriggerPush/Redzs/commit/f88f81c7ac98bbff8010c52b8b139eb2fb1d7341) slight nerf for eclipse and fix - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/f88f81c7ac98bbff8010c52b8b139eb2fb1d7341",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1552059209141452883",
-   "timestamp": "2026-09-22T20:49:11.325000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`2f5d07f`](https://github.com/TriggerPush/Redzs/commit/2f5d07fdcb7499e45ebebd6ba4ad86c62c414d35) fixes and new function for the flame mechanic - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/2f5d07fdcb7499e45ebebd6ba4ad86c62c414d35",
      "color": 7506394,
      "author": "LOLAIM3423423432",
      "footer": null,
