@@ -44,6 +44,95 @@
  },
  "messages": [
   {
+   "id": "1574879494328553486",
+   "timestamp": "2026-11-24T20:08:51.294000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`05cde7b`](https://github.com/TriggerPush/Redcore/commit/05cde7bc75f48ac5ffe7685154ebeae6c6299121) Add voicemenu, lock npst banner with award - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/05cde7bc75f48ac5ffe7685154ebeae6c6299121",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
+   "id": "1574879148059529318",
+   "timestamp": "2026-11-24T20:07:28.737000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`43ac2b9`](https://github.com/TriggerPush/Redcore/commit/43ac2b97f709cc9874502f78adb7f06c130f13fb) Update autorun - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/43ac2b97f709cc9874502f78adb7f06c130f13fb",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
+   "id": "1574878954333147264",
+   "timestamp": "2026-11-24T20:06:42.549000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Trigger_Push",
+    "avatar": "https://cdn.discordapp.com/avatars/1130942982556745909/e0603ad2215dc03844d79280704703fd.png?size=64"
+   },
+   "content": "Add tf2 engi voice",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [],
+   "reactions": []
+  },
+  {
+   "id": "1574878915812663496",
+   "timestamp": "2026-11-24T20:06:33.365000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`f1a2542`](https://github.com/TriggerPush/Redcore/commit/f1a2542c1f9a4fab50868b87d802f8274bf5add8) Add files via upload - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/f1a2542c1f9a4fab50868b87d802f8274bf5add8",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1574876442095915161",
    "timestamp": "2026-11-24T19:56:43.585000+00:00",
    "edited": null,
@@ -4546,100 +4635,6 @@
      "author": "LOLAIM3423423432",
      "footer": null,
      "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1552792758471626905",
-   "timestamp": "2026-09-24T21:24:03.114000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`ac2f4c3`](https://github.com/TriggerPush/Redzs/commit/ac2f4c3eaf764e00a213f5e62e93c45b614ea6b7) alright now the carryweight is actually fixed - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/ac2f4c3eaf764e00a213f5e62e93c45b614ea6b7",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1552778219919507537",
-   "timestamp": "2026-09-24T20:26:16.853000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`540d749`](https://github.com/TriggerPush/Redzs/commit/540d74994baa6c65dd17600f14f930f4c603476c) Fix Barbed Headcrab not being able to deal dmg - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/540d74994baa6c65dd17600f14f930f4c603476c",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1552776726986227793",
-   "timestamp": "2026-09-24T20:20:20.910000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`a4f6439`](https://github.com/TriggerPush/Redzs/commit/a4f6439b20b3c2f6119bb9b61abb4a5807fb868a) Fix Poison Headcrab not being able to deal dmg - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/a4f6439b20b3c2f6119bb9b61abb4a5807fb868a",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1552773504292622421",
-   "timestamp": "2026-09-24T20:07:32.560000+00:00",
-   "edited": null,
-   "author": {
-    "name": "Dark Red",
-    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "gifv",
-     "video": "data/media/1552773504292622421-e0-vid.mp4"
     }
    ],
    "reactions": []
