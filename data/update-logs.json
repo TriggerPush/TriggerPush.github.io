@@ -44,6 +44,31 @@
  },
  "messages": [
   {
+   "id": "1574894709254652009",
+   "timestamp": "2026-11-24T21:09:18.815000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`a408a82`](https://github.com/TriggerPush/Redcore/commit/a408a822ea3c089b1296623a5e87303cc348b938) Change this so it reads data_static - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/a408a822ea3c089b1296623a5e87303cc348b938",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1574892122635767999",
    "timestamp": "2026-11-24T20:59:02.117000+00:00",
    "edited": null,
@@ -4606,31 +4631,6 @@
      "title": "[Redzs:main] 1 new commit",
      "description": "[`9f6e730`](https://github.com/TriggerPush/Redzs/commit/9f6e73036d5529724802d34dc748e3dac4dbdd75) add the same cooldown fix  for GSC - LOLAIM3423423432",
      "url": "https://github.com/TriggerPush/Redzs/commit/9f6e73036d5529724802d34dc748e3dac4dbdd75",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1553103774606688369",
-   "timestamp": "2026-09-25T17:59:55.139000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`fb269c1`](https://github.com/TriggerPush/Redzs/commit/fb269c19031e728afa2c78f560c180a3de60c9c1) fix giga gore errors - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/fb269c19031e728afa2c78f560c180a3de60c9c1",
      "color": 7506394,
      "author": "LOLAIM3423423432",
      "footer": null,
