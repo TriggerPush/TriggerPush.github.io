@@ -44,6 +44,56 @@
  },
  "messages": [
   {
+   "id": "1574874827880398970",
+   "timestamp": "2026-11-24T19:50:18.726000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`14a9737`](https://github.com/TriggerPush/Redcore/commit/14a97371cf7d81a7a41cee71b327040456b48801) Add files via upload - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/14a97371cf7d81a7a41cee71b327040456b48801",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
+   "id": "1574874671399174207",
+   "timestamp": "2026-11-24T19:49:41.418000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`dc68e04`](https://github.com/TriggerPush/Redcore/commit/dc68e04d4d28f55f0a70acafdae98e7ae7eee543) Create 1 - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/dc68e04d4d28f55f0a70acafdae98e7ae7eee543",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1574619513922527273",
    "timestamp": "2026-11-24T02:55:47.135000+00:00",
    "edited": null,
@@ -4586,56 +4636,6 @@
      "title": "[Redzs:main] 1 new commit",
      "description": "[`2f5d07f`](https://github.com/TriggerPush/Redzs/commit/2f5d07fdcb7499e45ebebd6ba4ad86c62c414d35) fixes and new function for the flame mechanic - LOLAIM3423423432",
      "url": "https://github.com/TriggerPush/Redzs/commit/2f5d07fdcb7499e45ebebd6ba4ad86c62c414d35",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1552056189939097686",
-   "timestamp": "2026-09-22T20:37:11.491000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`4231a15`](https://github.com/TriggerPush/Redzs/commit/4231a1572331aac97d8b61cbb4e5346dd1cacf3e) remove duplicate - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/4231a1572331aac97d8b61cbb4e5346dd1cacf3e",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1552053537691803779",
-   "timestamp": "2026-09-22T20:26:39.146000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`edcc31c`](https://github.com/TriggerPush/Redzs/commit/edcc31ce2afbd883d7925da2d9ce31d898b4a71e) new status_burn code for the pollutor projectile - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/edcc31ce2afbd883d7925da2d9ce31d898b4a71e",
      "color": 7506394,
      "author": "LOLAIM3423423432",
      "footer": null,
