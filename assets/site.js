@@ -146,33 +146,51 @@
   // Art: one random image per page load, nothing else on screen
   window.Art = {
     init: function () {
+      // Add #debug to the page URL to see an on-screen readout of what loaded
+      var debug = /debug/.test(location.hash), note = null;
+      var say = function (t) {
+        console.log("Art:", t);
+        if (!debug) return;
+        if (!note) {
+          note = document.createElement("div");
+          note.style.cssText = "position:fixed;left:8px;bottom:8px;z-index:9;padding:6px 10px;background:rgba(0,0,0,.85);color:#0f0;font:12px monospace;max-width:90vw;overflow-wrap:anywhere;";
+          document.body.appendChild(note);
+        }
+        note.textContent = t;
+      };
       fetch("manifest.json", { cache: "no-cache" })
-        .then(function (r) { return r.json(); })
+        .then(function (r) { if (!r.ok) throw new Error("manifest.json " + r.status); return r.json(); })
         .then(function (d) {
-          if (!d.images.length) return;
-          var i = d.images[Math.floor(Math.random() * d.images.length)];
-          var img = document.createElement("img");
+          if (!d.images || !d.images.length) { say("manifest has no images"); return; }
+          var img = document.createElement("img"), tries = 0;
           img.alt = "";
-          img.src = asset(i.src);
-          // Size the image with JS so it always fits the window, up or down,
-          // regardless of what style.css says
-          img.style.cssText = "position:fixed;max-width:none;max-height:none;display:block;object-fit:contain;";
+          // Sized with JS so it always fits the window, up or down, whatever style.css says
+          img.style.cssText = "position:fixed;max-width:none;max-height:none;display:block;object-fit:contain;" + (debug ? "background:#555;" : "");
           document.body.style.cssText += ";margin:0;overflow:hidden;background:#000;";
           var fit = function () {
             var w = img.naturalWidth, h = img.naturalHeight;
-            if (!w || !h) { img.style.cssText += "top:0;left:0;width:100%;height:100%;"; return; }
-            var s = Math.min(window.innerWidth / w, window.innerHeight / h);
-            img.style.width = Math.round(w * s) + "px";
-            img.style.height = Math.round(h * s) + "px";
-            img.style.left = Math.round((window.innerWidth - w * s) / 2) + "px";
-            img.style.top = Math.round((window.innerHeight - h * s) / 2) + "px";
+            if (!w || !h) { img.style.top = "0"; img.style.left = "0"; img.style.width = "100%"; img.style.height = "100%"; return; }
+            var k = Math.min(window.innerWidth / w, window.innerHeight / h);
+            img.style.width = Math.round(w * k) + "px";
+            img.style.height = Math.round(h * k) + "px";
+            img.style.left = Math.round((window.innerWidth - w * k) / 2) + "px";
+            img.style.top = Math.round((window.innerHeight - h * k) / 2) + "px";
           };
-          img.addEventListener("load", fit);
+          var pick = function () { img.src = asset(d.images[Math.floor(Math.random() * d.images.length)].src); };
+          img.addEventListener("load", function () {
+            fit();
+            say(img.src + " | natural " + img.naturalWidth + "x" + img.naturalHeight + " | shown " + img.style.width + " x " + img.style.height + " | window " + window.innerWidth + "x" + window.innerHeight);
+          });
+          // If an image is missing or can't be decoded, say so and try another one
+          img.addEventListener("error", function () {
+            say("FAILED to load or decode: " + img.src);
+            if (++tries < 5) pick();
+          });
           window.addEventListener("resize", fit);
-          console.log("Art: fit script v3 loaded");
           document.body.appendChild(img);
+          pick();
         })
-        .catch(function (err) { console.error("Art failed to load:", err); });
+        .catch(function (err) { say("Art failed: " + err.message); });
     }
   };
 })();
