@@ -44,6 +44,31 @@
  },
  "messages": [
   {
+   "id": "1574876442095915161",
+   "timestamp": "2026-11-24T19:56:43.585000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`89cff84`](https://github.com/TriggerPush/Redcore/commit/89cff843bc3682372e1fcd5d5c098c2dc66cd5da) Delete sound/vo directory - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/89cff843bc3682372e1fcd5d5c098c2dc66cd5da",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1574875368869855293",
    "timestamp": "2026-11-24T19:52:27.708000+00:00",
    "edited": null,
@@ -4615,31 +4640,6 @@
     {
      "kind": "gifv",
      "video": "data/media/1552773504292622421-e0-vid.mp4"
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1552773433950085282",
-   "timestamp": "2026-09-24T20:07:15.789000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`79a8fc4`](https://github.com/TriggerPush/Redzs/commit/79a8fc4269d90e92098c3cefdb98bcdd1305c10e) fix for carry weight (finally) - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/79a8fc4269d90e92098c3cefdb98bcdd1305c10e",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
     }
    ],
    "reactions": []
