@@ -44,6 +44,31 @@
  },
  "messages": [
   {
+   "id": "1574619513922527273",
+   "timestamp": "2026-11-24T02:55:47.135000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`1d6db73`](https://github.com/TriggerPush/Redcore/commit/1d6db739f1934f06d273caebd9b8a7f5b16d1ac6) cleaned up the spray code. Fixed sprays going o... - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/1d6db739f1934f06d273caebd9b8a7f5b16d1ac6",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1574284819444011161",
    "timestamp": "2026-11-23T04:45:49.753000+00:00",
    "edited": null,
@@ -4611,31 +4636,6 @@
      "title": "[Redzs:main] 1 new commit",
      "description": "[`edcc31c`](https://github.com/TriggerPush/Redzs/commit/edcc31ce2afbd883d7925da2d9ce31d898b4a71e) new status_burn code for the pollutor projectile - LOLAIM3423423432",
      "url": "https://github.com/TriggerPush/Redzs/commit/edcc31ce2afbd883d7925da2d9ce31d898b4a71e",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1552044202626519197",
-   "timestamp": "2026-09-22T19:49:33.493000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`5a9663e`](https://github.com/TriggerPush/Redzs/commit/5a9663ebec4e777f3d6956514ed76473700f572f) add kill icon for status_burn - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/5a9663ebec4e777f3d6956514ed76473700f572f",
      "color": 7506394,
      "author": "LOLAIM3423423432",
      "footer": null,
