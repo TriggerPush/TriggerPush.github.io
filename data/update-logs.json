@@ -44,6 +44,56 @@
  },
  "messages": [
   {
+   "id": "1575010296974680208",
+   "timestamp": "2026-11-25T04:48:37.075000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`3de3357`](https://github.com/TriggerPush/Redzs/commit/3de33578bf62ccb3352d89c688684927d16c4bfe) remove buyable boards - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/3de33578bf62ccb3352d89c688684927d16c4bfe",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
+   "id": "1575009982297022495",
+   "timestamp": "2026-11-25T04:47:22.050000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`01f52e1`](https://github.com/TriggerPush/Redzs/commit/01f52e1bf0f4343ad0cfe1d4a702286666c3111d) Insert said nerfs into affected - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/01f52e1bf0f4343ad0cfe1d4a702286666c3111d",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1575009475054669956",
    "timestamp": "2026-11-25T04:45:21.114000+00:00",
    "edited": null,
@@ -4567,56 +4617,6 @@
      "title": "[Redzs:main] 1 new commit",
      "description": "[`38b768e`](https://github.com/TriggerPush/Redzs/commit/38b768ead911ada04dc252dcc6353d73fc01bff3) add redeem to the content - LOLAIM3423423432",
      "url": "https://github.com/TriggerPush/Redzs/commit/38b768ead911ada04dc252dcc6353d73fc01bff3",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1553114593025335310",
-   "timestamp": "2026-09-25T18:42:54.451000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`dd917d9`](https://github.com/TriggerPush/Redzs/commit/dd917d9ee6887130937fe1c7a67bab9675e1551c) add the serverside redeem check itself - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/dd917d9ee6887130937fe1c7a67bab9675e1551c",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1553114352368750674",
-   "timestamp": "2026-09-25T18:41:57.074000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`c991fbe`](https://github.com/TriggerPush/Redzs/commit/c991fbed6fe477e1714d5a4850711e3cfe0ee39f) clientside redeem sound check - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/c991fbed6fe477e1714d5a4850711e3cfe0ee39f",
      "color": 7506394,
      "author": "LOLAIM3423423432",
      "footer": null,
