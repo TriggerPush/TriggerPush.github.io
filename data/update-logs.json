@@ -44,6 +44,31 @@
  },
  "messages": [
   {
+   "id": "1574981470324527229",
+   "timestamp": "2026-11-25T02:54:04.266000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`194566d`](https://github.com/TriggerPush/Redcore/commit/194566da5d6cfe9d3cf746df38950a2c719e6479) fix some songs not working - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/194566da5d6cfe9d3cf746df38950a2c719e6479",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1574970801386553389",
    "timestamp": "2026-11-25T02:11:40.593000+00:00",
    "edited": null,
@@ -4606,31 +4631,6 @@
      "title": "[Redzs:main] 1 new commit",
      "description": "[`565560b`](https://github.com/TriggerPush/Redzs/commit/565560b9a921d217790d818e5ebacb78f0e3aaaf) nerf doom crab cause hes lowk a lil busted - LOLAIM3423423432",
      "url": "https://github.com/TriggerPush/Redzs/commit/565560b9a921d217790d818e5ebacb78f0e3aaaf",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1553106217323339838",
-   "timestamp": "2026-09-25T18:09:37.528000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`14904bb`](https://github.com/TriggerPush/Redzs/commit/14904bb2028e3b4c2e2016ed1493e1c9a0f2a3e4) do the same for doom crab - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/14904bb2028e3b4c2e2016ed1493e1c9a0f2a3e4",
      "color": 7506394,
      "author": "LOLAIM3423423432",
      "footer": null,
