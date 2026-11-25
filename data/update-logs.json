@@ -44,6 +44,84 @@
  },
  "messages": [
   {
+   "id": "1575009475054669956",
+   "timestamp": "2026-11-25T04:45:21.114000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "0.85x dmg penalty to 0.80x",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [],
+   "reactions": []
+  },
+  {
+   "id": "1575009376794705991",
+   "timestamp": "2026-11-25T04:44:57.687000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Dark Red",
+    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
+   },
+   "content": "from 2x dmg to 1.4x",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [],
+   "reactions": []
+  },
+  {
+   "id": "1575009307961860316",
+   "timestamp": "2026-11-25T04:44:41.276000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[TriggerPush/Redzs] New comment on commit `c5ff4e8`",
+     "description": "last stand nerf",
+     "url": "https://github.com/TriggerPush/Redzs/commit/c5ff4e890b58ec66df96f1b33dfbd505f3488ce9#commitcomment-211742706",
+     "color": null,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
+   "id": "1575009240840544380",
+   "timestamp": "2026-11-25T04:44:25.273000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`c5ff4e8`](https://github.com/TriggerPush/Redzs/commit/c5ff4e890b58ec66df96f1b33dfbd505f3488ce9) Add files via upload - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/c5ff4e890b58ec66df96f1b33dfbd505f3488ce9",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1574981470324527229",
    "timestamp": "2026-11-25T02:54:04.266000+00:00",
    "edited": null,
@@ -4539,98 +4617,6 @@
      "title": "[Redzs:main] 1 new commit",
      "description": "[`c991fbe`](https://github.com/TriggerPush/Redzs/commit/c991fbed6fe477e1714d5a4850711e3cfe0ee39f) clientside redeem sound check - LOLAIM3423423432",
      "url": "https://github.com/TriggerPush/Redzs/commit/c991fbed6fe477e1714d5a4850711e3cfe0ee39f",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1553113981663842405",
-   "timestamp": "2026-09-25T18:40:28.691000+00:00",
-   "edited": null,
-   "author": {
-    "name": "Dark Red",
-    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
-   },
-   "content": "redeem sound",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [],
-   "reactions": []
-  },
-  {
-   "id": "1553113942124138688",
-   "timestamp": "2026-09-25T18:40:19.264000+00:00",
-   "edited": null,
-   "author": {
-    "name": "Dark Red",
-    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
-   },
-   "content": "<@1130942982556745909>  https://medal.tv/games/garrys-mod/clips/nBcwa3YB7RVyfs67h?invite=cr-MSxqTTEsMjA3NzY0MTA1",
-   "mentions": {
-    "1130942982556745909": "Trigger_Push"
-   },
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "Untitled - Clipped Garry's Mod with Medal.tv",
-     "description": "Watch Untitled by skeleton88 and millions of other Garry's Mod videos on Medal. #garrysmod",
-     "url": "https://medal.tv/games/garrys-mod/clips/nBcwa3YB7RVyfs67h?invite=cr-MSxqTTEsMjA3NzY0MTA1",
-     "color": null,
-     "author": "skeleton88",
-     "footer": null,
-     "thumbnail": "data/media/1553113942124138688-e0-thumb.jpg",
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1553108689878257744",
-   "timestamp": "2026-09-25T18:19:27.031000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`6903b5b`](https://github.com/TriggerPush/Redzs/commit/6903b5b80105dc19a409d43387d048e8d4f413f2) also nerf extinction crab - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/6903b5b80105dc19a409d43387d048e8d4f413f2",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1553108395362488321",
-   "timestamp": "2026-09-25T18:18:16.813000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`565560b`](https://github.com/TriggerPush/Redzs/commit/565560b9a921d217790d818e5ebacb78f0e3aaaf) nerf doom crab cause hes lowk a lil busted - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/565560b9a921d217790d818e5ebacb78f0e3aaaf",
      "color": 7506394,
      "author": "LOLAIM3423423432",
      "footer": null,
