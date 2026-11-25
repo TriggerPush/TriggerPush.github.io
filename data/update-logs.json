@@ -44,6 +44,56 @@
  },
  "messages": [
   {
+   "id": "1574970084320092161",
+   "timestamp": "2026-11-25T02:08:49.631000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`bcc1602`](https://github.com/TriggerPush/Redcore/commit/bcc16021c7094c6008d9be703634a4d601007321) Update for last human music - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/bcc16021c7094c6008d9be703634a4d601007321",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
+   "id": "1574969856619446295",
+   "timestamp": "2026-11-25T02:07:55.343000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`316b494`](https://github.com/TriggerPush/Redcore/commit/316b494aafa64dce59be3362f43d8601f56b6430) buyable lasthuman music - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/316b494aafa64dce59be3362f43d8601f56b6430",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1574894709254652009",
    "timestamp": "2026-11-24T21:09:18.815000+00:00",
    "edited": null,
@@ -4581,56 +4631,6 @@
      "title": "[Redzs:main] 1 new commit",
      "description": "[`5aec064`](https://github.com/TriggerPush/Redzs/commit/5aec0648ce5a037d43352fd91c86a40728cda472) fix extinction crab size a bit - LOLAIM3423423432",
      "url": "https://github.com/TriggerPush/Redzs/commit/5aec0648ce5a037d43352fd91c86a40728cda472",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1553105300888879144",
-   "timestamp": "2026-09-25T18:05:59.033000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`2d3f9ed`](https://github.com/TriggerPush/Redzs/commit/2d3f9edc4d9be7d7115ef424764eb52fb23301ff) add same roar cooldown bar to howler - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/2d3f9edc4d9be7d7115ef424764eb52fb23301ff",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1553104106607087617",
-   "timestamp": "2026-09-25T18:01:14.294000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`9f6e730`](https://github.com/TriggerPush/Redzs/commit/9f6e73036d5529724802d34dc748e3dac4dbdd75) add the same cooldown fix  for GSC - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/9f6e73036d5529724802d34dc748e3dac4dbdd75",
      "color": 7506394,
      "author": "LOLAIM3423423432",
      "footer": null,
