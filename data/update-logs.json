@@ -44,6 +44,31 @@
  },
  "messages": [
   {
+   "id": "1575021509020229773",
+   "timestamp": "2026-11-25T05:33:10.235000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`82a3394`](https://github.com/TriggerPush/Redzs/commit/82a33943e834947de2688bd996db7085f7702417) fix lootcrates duplicating your ammo like Arsenal - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/82a33943e834947de2688bd996db7085f7702417",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1575010296974680208",
    "timestamp": "2026-11-25T04:48:37.075000+00:00",
    "edited": null,
@@ -4592,31 +4617,6 @@
      "title": "[Redzs:main] 1 new commit",
      "description": "[`9993000`](https://github.com/TriggerPush/Redzs/commit/99930000abec843b73eb16456be48e633294169f) Fix Heal Darts being able to push players  - LOLAIM3423423432",
      "url": "https://github.com/TriggerPush/Redzs/commit/99930000abec843b73eb16456be48e633294169f",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1553114735384338516",
-   "timestamp": "2026-09-25T18:43:28.392000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`38b768e`](https://github.com/TriggerPush/Redzs/commit/38b768ead911ada04dc252dcc6353d73fc01bff3) add redeem to the content - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/38b768ead911ada04dc252dcc6353d73fc01bff3",
      "color": 7506394,
      "author": "LOLAIM3423423432",
      "footer": null,
