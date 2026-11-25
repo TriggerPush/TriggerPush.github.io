@@ -44,6 +44,31 @@
  },
  "messages": [
   {
+   "id": "1574970801386553389",
+   "timestamp": "2026-11-25T02:11:40.593000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`ec0a8a2`](https://github.com/TriggerPush/Redcore/commit/ec0a8a244fd2beece792f6f1cbbcf3c12e9acf43) Delete redcore/materials/redcore directory. mov... - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/ec0a8a244fd2beece792f6f1cbbcf3c12e9acf43",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1574970084320092161",
    "timestamp": "2026-11-25T02:08:49.631000+00:00",
    "edited": null,
@@ -4606,31 +4631,6 @@
      "title": "[Redzs:main] 1 new commit",
      "description": "[`14904bb`](https://github.com/TriggerPush/Redzs/commit/14904bb2028e3b4c2e2016ed1493e1c9a0f2a3e4) do the same for doom crab - LOLAIM3423423432",
      "url": "https://github.com/TriggerPush/Redzs/commit/14904bb2028e3b4c2e2016ed1493e1c9a0f2a3e4",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1553106044874522735",
-   "timestamp": "2026-09-25T18:08:56.413000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`5aec064`](https://github.com/TriggerPush/Redzs/commit/5aec0648ce5a037d43352fd91c86a40728cda472) fix extinction crab size a bit - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/5aec0648ce5a037d43352fd91c86a40728cda472",
      "color": 7506394,
      "author": "LOLAIM3423423432",
      "footer": null,
