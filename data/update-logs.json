@@ -47,6 +47,31 @@
  },
  "messages": [
   {
+   "id": "1575725884462211294",
+   "timestamp": "2026-11-27T04:12:06.427000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`c0e7be1`](https://github.com/TriggerPush/Redcore/commit/c0e7be1e1087720af9b2b07084a921ca6409e81e) Add chatlogs !roll !pm !sendrubies - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/c0e7be1e1087720af9b2b07084a921ca6409e81e",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1575666611300335647",
    "timestamp": "2026-11-27T00:16:34.604000+00:00",
    "edited": null,
@@ -4644,20 +4669,6 @@
      "fields": []
     }
    ],
-   "reactions": []
-  },
-  {
-   "id": "1556731811541950566",
-   "timestamp": "2026-10-05T18:16:26.550000+00:00",
-   "edited": null,
-   "author": {
-    "name": "Dark Red",
-    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
-   },
-   "content": "zshop*",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [],
    "reactions": []
   }
  ]
