@@ -44,6 +44,459 @@
  },
  "messages": [
   {
+   "id": "1575664963173744784",
+   "timestamp": "2026-11-27T00:10:01.660000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:Delete-Old-files] 1 new commit",
+     "description": "[`80a14ac`](https://github.com/TriggerPush/Redcore/commit/80a14ac7f210761d0491cc3c29abb0310bda958d) Real fix - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/80a14ac7f210761d0491cc3c29abb0310bda958d",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
+   "id": "1575664755149115493",
+   "timestamp": "2026-11-27T00:09:12.063000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:Delete-Old-files] 1 new commit",
+     "description": "[`fae2735`](https://github.com/TriggerPush/Redcore/commit/fae27352a7e719c498c73acbae17f6e5b925e0a6) Delete redcore/lua/redcore directory - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/fae27352a7e719c498c73acbae17f6e5b925e0a6",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
+   "id": "1575664663708966943",
+   "timestamp": "2026-11-27T00:08:50.262000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:Delete-Old-files] 1 new commit",
+     "description": "[`7104292`](https://github.com/TriggerPush/Redcore/commit/710429224534955bbbbe6bdd0fb97740668eeaec) Delete redcore/lua/redcore/cl_voicemenu.lua - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/710429224534955bbbbe6bdd0fb97740668eeaec",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
+   "id": "1575664621824512093",
+   "timestamp": "2026-11-27T00:08:40.276000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:Delete-Old-files] 1 new commit",
+     "description": "[`506dd98`](https://github.com/TriggerPush/Redcore/commit/506dd98c7966cd444443d70fae76100c3e1d07e0) Delete redcore/lua/redcore/cl_toasts.lua - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/506dd98c7966cd444443d70fae76100c3e1d07e0",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
+   "id": "1575664586307412133",
+   "timestamp": "2026-11-27T00:08:31.808000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:Delete-Old-files] 1 new commit",
+     "description": "[`cffb08a`](https://github.com/TriggerPush/Redcore/commit/cffb08a74b3a71891ebe016cb4d16f32d709891f) Delete redcore/lua/redcore/cl_theme.lua - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/cffb08a74b3a71891ebe016cb4d16f32d709891f",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
+   "id": "1575664385983258675",
+   "timestamp": "2026-11-27T00:07:44.047000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`d67e0f0`](https://github.com/TriggerPush/Redcore/commit/d67e0f02b6af6a59c81b6062f16c31a58ba20559) Delete redcore/lua/redcore/cl_tags.lua - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/d67e0f02b6af6a59c81b6062f16c31a58ba20559",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
+   "id": "1575664342978928653",
+   "timestamp": "2026-11-27T00:07:33.794000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`69e1a0f`](https://github.com/TriggerPush/Redcore/commit/69e1a0f6404a3b7301cf9ae8ee7a4f0b87a51b8d) Delete redcore/lua/redcore/cl_sprays.lua - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/69e1a0f6404a3b7301cf9ae8ee7a4f0b87a51b8d",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
+   "id": "1575664302780579877",
+   "timestamp": "2026-11-27T00:07:24.210000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`e92fd85`](https://github.com/TriggerPush/Redcore/commit/e92fd857822bddb5c9a0f68658347491458eb934) Delete redcore/lua/redcore/cl_menu.lua - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/e92fd857822bddb5c9a0f68658347491458eb934",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
+   "id": "1575664239794720778",
+   "timestamp": "2026-11-27T00:07:09.193000+00:00",
+   "edited": null,
+   "author": {
+    "name": "Trigger_Push",
+    "avatar": "https://cdn.discordapp.com/avatars/1130942982556745909/e0603ad2215dc03844d79280704703fd.png?size=64"
+   },
+   "content": "lol",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [],
+   "reactions": []
+  },
+  {
+   "id": "1575664235818778727",
+   "timestamp": "2026-11-27T00:07:08.245000+00:00",
+   "edited": "2026-11-27T00:07:16.199000+00:00",
+   "author": {
+    "name": "Trigger_Push",
+    "avatar": "https://cdn.discordapp.com/avatars/1130942982556745909/e0603ad2215dc03844d79280704703fd.png?size=64"
+   },
+   "content": "forgot to delete old files",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [],
+   "reactions": []
+  },
+  {
+   "id": "1575664203547680913",
+   "timestamp": "2026-11-27T00:07:00.551000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`8a01c05`](https://github.com/TriggerPush/Redcore/commit/8a01c05d4def0bc68373257bb106aa3dc6f5cb72) Delete redcore/lua/redcore/cl_lasthuman.lua - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/8a01c05d4def0bc68373257bb106aa3dc6f5cb72",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
+   "id": "1575664165408743447",
+   "timestamp": "2026-11-27T00:06:51.458000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`16f59a5`](https://github.com/TriggerPush/Redcore/commit/16f59a5c5d3bebc301c36a3334c298453dd2c9a0) Delete redcore/lua/redcore/cl_hud.lua - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/16f59a5c5d3bebc301c36a3334c298453dd2c9a0",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
+   "id": "1575664129480331296",
+   "timestamp": "2026-11-27T00:06:42.892000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`ef05f6b`](https://github.com/TriggerPush/Redcore/commit/ef05f6ba60c6d158370626119f3a01f43524d404) Delete redcore/lua/redcore/cl_costumes.lua - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/ef05f6ba60c6d158370626119f3a01f43524d404",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
+   "id": "1575664086602223728",
+   "timestamp": "2026-11-27T00:06:32.669000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`b83f410`](https://github.com/TriggerPush/Redcore/commit/b83f4103f03c6254ebf15be2b220818b9f11e06d) Delete redcore/lua/redcore/cl_costume_shop.lua - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/b83f4103f03c6254ebf15be2b220818b9f11e06d",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
+   "id": "1575664047347466413",
+   "timestamp": "2026-11-27T00:06:23.310000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`4f817f3`](https://github.com/TriggerPush/Redcore/commit/4f817f3f60cce9ff00ca9f5eacddea43c9544403) Delete redcore/lua/redcore/cl_chat.lua - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/4f817f3f60cce9ff00ca9f5eacddea43c9544403",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
+   "id": "1575663960848601230",
+   "timestamp": "2026-11-27T00:06:02.687000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`10200bb`](https://github.com/TriggerPush/Redcore/commit/10200bb0d443d98b9507c3f060c7e1d030b46d62) Delete redcore/lua/redcore/cl_banners.lua - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/10200bb0d443d98b9507c3f060c7e1d030b46d62",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
+   "id": "1575663920327299244",
+   "timestamp": "2026-11-27T00:05:53.026000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`400f583`](https://github.com/TriggerPush/Redcore/commit/400f583b3540bfaa2560932beebf17e1e1da09b1) Delete redcore/lua/redcore/cl_admin_extra.lua - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/400f583b3540bfaa2560932beebf17e1e1da09b1",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
+   "id": "1575663872344465419",
+   "timestamp": "2026-11-27T00:05:41.586000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`f0e75bd`](https://github.com/TriggerPush/Redcore/commit/f0e75bdb02feb5d7525ab262336abb35dba86bcc) Delete redcore/lua/redcore/cl_admin.lua - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/f0e75bdb02feb5d7525ab262336abb35dba86bcc",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
+   "id": "1575663834243534879",
+   "timestamp": "2026-11-27T00:05:32.502000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`433cd34`](https://github.com/TriggerPush/Redcore/commit/433cd34450984ea7ecb6c0222b75359f63e9bca5) Delete redcore/lua/redcore/sv_voicemenu_zs.lua - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/433cd34450984ea7ecb6c0222b75359f63e9bca5",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1575634106665148630",
    "timestamp": "2026-11-26T22:07:24.895000+00:00",
    "edited": null,
@@ -4196,449 +4649,6 @@
      "title": "[Redzs:main] 1 new commit",
      "description": "[`8ac257e`](https://github.com/TriggerPush/Redzs/commit/8ac257e1f2e7fe66a991efb69bd41482347e6f9c) Addcslua and include for zcredit vgui - LOLAIM3423423432",
      "url": "https://github.com/TriggerPush/Redzs/commit/8ac257e1f2e7fe66a991efb69bd41482347e6f9c",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1555502596238872697",
-   "timestamp": "2026-10-02T08:51:58.784000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`46473b9`](https://github.com/TriggerPush/Redzs/commit/46473b9de80f952b679473313162aafc0a9fe514) fix hopefully and add actual hud vgui for zcredits - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/46473b9de80f952b679473313162aafc0a9fe514",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1555199118832566283",
-   "timestamp": "2026-10-01T12:46:04.132000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`21dc422`](https://github.com/TriggerPush/Redzs/commit/21dc42260c74bc64f5e0713b284f63799374649f) add demi spawn notification - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/21dc42260c74bc64f5e0713b284f63799374649f",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1555198523178356799",
-   "timestamp": "2026-10-01T12:43:42.117000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`3c68786`](https://github.com/TriggerPush/Redzs/commit/3c6878624531f0145891cf81baf6fad66a681a90) fix - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/3c6878624531f0145891cf81baf6fad66a681a90",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1555198426054918228",
-   "timestamp": "2026-10-01T12:43:18.961000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`1b94830`](https://github.com/TriggerPush/Redzs/commit/1b948302d17e6717f8681529f07a5a983b770641) removed cause wrong directory - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/1b948302d17e6717f8681529f07a5a983b770641",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1555182570126450690",
-   "timestamp": "2026-10-01T11:40:18.613000+00:00",
-   "edited": null,
-   "author": {
-    "name": "Dark Red",
-    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
-   },
-   "content": "nigger",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [],
-   "reactions": []
-  },
-  {
-   "id": "1555182554020184177",
-   "timestamp": "2026-10-01T11:40:14.773000+00:00",
-   "edited": null,
-   "author": {
-    "name": "Dark Red",
-    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
-   },
-   "content": "haha",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [],
-   "reactions": []
-  },
-  {
-   "id": "1555179461253537896",
-   "timestamp": "2026-10-01T11:27:57.400000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`8fd5f50`](https://github.com/TriggerPush/Redzs/commit/8fd5f50d337e238ca4c319cf9ea744c9ba7bf78c) fix name of Frost Marrow :lmao: - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/8fd5f50d337e238ca4c319cf9ea744c9ba7bf78c",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1555167777143267381",
-   "timestamp": "2026-10-01T10:41:31.691000+00:00",
-   "edited": null,
-   "author": {
-    "name": "Dark Red",
-    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
-   },
-   "content": "poop sex monster",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [],
-   "reactions": []
-  },
-  {
-   "id": "1555167749754462260",
-   "timestamp": "2026-10-01T10:41:25.161000+00:00",
-   "edited": null,
-   "author": {
-    "name": "Dark Red",
-    "avatar": "https://cdn.discordapp.com/avatars/994938354560946247/3abe3978f6ffd6b7f41d1c0c6fca1bf3.png?size=64"
-   },
-   "content": "https://medal.tv/games/garrys-mod/clips/nDwZLE3DQWvGBeyh2?invite=cr-MSx5aVMsMjA3NzY0MTA1",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "Untitled - Clipped Garry's Mod with Medal.tv",
-     "description": "Watch Untitled by skeleton88 and millions of other Garry's Mod videos on Medal. #garrysmod",
-     "url": "https://medal.tv/games/garrys-mod/clips/nDwZLE3DQWvGBeyh2?invite=cr-MSx5aVMsMjA3NzY0MTA1",
-     "color": null,
-     "author": "skeleton88",
-     "footer": null,
-     "thumbnail": "data/media/1555167749754462260-e0-thumb.jpg",
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1555167262984642642",
-   "timestamp": "2026-10-01T10:39:29.106000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`51f9436`](https://github.com/TriggerPush/Redzs/commit/51f9436bd923e60e57dba16cf06c0615fb67cbfe) small whatever - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/51f9436bd923e60e57dba16cf06c0615fb67cbfe",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1555165497215946763",
-   "timestamp": "2026-10-01T10:32:28.114000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`e3ce61f`](https://github.com/TriggerPush/Redzs/commit/e3ce61f1d5a6e018f647288db8639106677b3778) something to remove for later - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/e3ce61f1d5a6e018f647288db8639106677b3778",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1555164450158288896",
-   "timestamp": "2026-10-01T10:28:18.476000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`a25caed`](https://github.com/TriggerPush/Redzs/commit/a25caedbeb1b929e3579eff5284726f53d1c74cb) add frost marrow status and projectile - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/a25caedbeb1b929e3579eff5284726f53d1c74cb",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1555163090075521026",
-   "timestamp": "2026-10-01T10:22:54.207000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`6bd7342`](https://github.com/TriggerPush/Redzs/commit/6bd7342d05a89f68e55a38859dd788f45f7b601a) Add Frost Marrow and Parasite Descriptions - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/6bd7342d05a89f68e55a38859dd788f45f7b601a",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1555162536457019413",
-   "timestamp": "2026-10-01T10:20:42.214000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`a994e95`](https://github.com/TriggerPush/Redzs/commit/a994e9583169ebefb68f26f50b944e1320575b9f) Add Anchor - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/a994e9583169ebefb68f26f50b944e1320575b9f",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1555162232533291059",
-   "timestamp": "2026-10-01T10:19:29.753000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`46f26ed`](https://github.com/TriggerPush/Redzs/commit/46f26ed1b4f4d0e7bf4773750e1046a86eab1c7d) add parasite fully - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/46f26ed1b4f4d0e7bf4773750e1046a86eab1c7d",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1555162158105632879",
-   "timestamp": "2026-10-01T10:19:12.008000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`91d1253`](https://github.com/TriggerPush/Redzs/commit/91d1253c02446c60c0b6e6f167adee708d129c5d) Add Frost Marrow fully - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/91d1253c02446c60c0b6e6f167adee708d129c5d",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1555161987330215939",
-   "timestamp": "2026-10-01T10:18:31.292000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`2daac73`](https://github.com/TriggerPush/Redzs/commit/2daac73efa74a07b3ca6caf10394c648138d01fe) Add Frost Marrow Demiboss - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/2daac73efa74a07b3ca6caf10394c648138d01fe",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1555161563638399048",
-   "timestamp": "2026-10-01T10:16:50.276000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`f079a9f`](https://github.com/TriggerPush/Redzs/commit/f079a9f68070c4110e435a4c6c1e0a2e9879290a) Add Parasite Demiboss - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/f079a9f68070c4110e435a4c6c1e0a2e9879290a",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1555161228354257020",
-   "timestamp": "2026-10-01T10:15:30.338000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`bb1ac2f`](https://github.com/TriggerPush/Redzs/commit/bb1ac2f38e027ad5bed6c214bb8f0515e36d73ea) ZCredit floater - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/bb1ac2f38e027ad5bed6c214bb8f0515e36d73ea",
      "color": 7506394,
      "author": "LOLAIM3423423432",
      "footer": null,
