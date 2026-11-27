@@ -44,6 +44,56 @@
  },
  "messages": [
   {
+   "id": "1575666611300335647",
+   "timestamp": "2026-11-27T00:16:34.604000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`70c5bb6`](https://github.com/TriggerPush/Redzs/commit/70c5bb63fcb7627f08d84a5cdcb480265d725daf) fixes and stuff for the new model - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/70c5bb63fcb7627f08d84a5cdcb480265d725daf",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
+   "id": "1575666438725968035",
+   "timestamp": "2026-11-27T00:15:53.459000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redzs:main] 1 new commit",
+     "description": "[`29fe4a5`](https://github.com/TriggerPush/Redzs/commit/29fe4a5a95dd9e954f2bd0ba3b130c2a8e89dacd) new model for scarlet carcass - LOLAIM3423423432",
+     "url": "https://github.com/TriggerPush/Redzs/commit/29fe4a5a95dd9e954f2bd0ba3b130c2a8e89dacd",
+     "color": 7506394,
+     "author": "LOLAIM3423423432",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1575665411939242107",
    "timestamp": "2026-11-27T00:11:48.654000+00:00",
    "edited": null,
@@ -4605,56 +4655,6 @@
    "mentions": {},
    "attachments": [],
    "embeds": [],
-   "reactions": []
-  },
-  {
-   "id": "1556731726808612946",
-   "timestamp": "2026-10-05T18:16:06.348000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`0719f14`](https://github.com/TriggerPush/Redzs/commit/0719f14ac9f844cb760ad699171776baf733a59a) new shop redesign - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/0719f14ac9f844cb760ad699171776baf733a59a",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1555503138725695551",
-   "timestamp": "2026-10-02T08:54:08.123000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`754d3ab`](https://github.com/TriggerPush/Redzs/commit/754d3ab5f1599385033271e115e18b50c533fda1) remove dogshit hudpaint - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/754d3ab5f1599385033271e115e18b50c533fda1",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
    "reactions": []
   }
  ]
