@@ -47,6 +47,31 @@
  },
  "messages": [
   {
+   "id": "1575741652377669675",
+   "timestamp": "2026-11-27T05:14:45.791000+00:00",
+   "edited": null,
+   "author": {
+    "name": "GitHub",
+    "avatar": "https://cdn.discordapp.com/avatars/1572840853200703589/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
+   },
+   "content": "",
+   "mentions": {},
+   "attachments": [],
+   "embeds": [
+    {
+     "kind": "rich",
+     "title": "[Redcore:main] 1 new commit",
+     "description": "[`67eb76f`](https://github.com/TriggerPush/Redcore/commit/67eb76f4468f25271bec9c4ac5b1e7318c6b43cb) Fix costumes not showing - TriggerPush",
+     "url": "https://github.com/TriggerPush/Redcore/commit/67eb76f4468f25271bec9c4ac5b1e7318c6b43cb",
+     "color": 7506394,
+     "author": "TriggerPush",
+     "footer": null,
+     "fields": []
+    }
+   ],
+   "reactions": []
+  },
+  {
    "id": "1575731128130740245",
    "timestamp": "2026-11-27T04:32:56.615000+00:00",
    "edited": null,
@@ -4638,31 +4663,6 @@
      "title": "[Redzs:main] 1 new commit",
      "description": "[`ea88f7c`](https://github.com/TriggerPush/Redzs/commit/ea88f7c680dae0f5439756115883b66cb9068bee) rename - LOLAIM3423423432",
      "url": "https://github.com/TriggerPush/Redzs/commit/ea88f7c680dae0f5439756115883b66cb9068bee",
-     "color": 7506394,
-     "author": "LOLAIM3423423432",
-     "footer": null,
-     "fields": []
-    }
-   ],
-   "reactions": []
-  },
-  {
-   "id": "1556732295069704213",
-   "timestamp": "2026-10-05T18:18:21.832000+00:00",
-   "edited": null,
-   "author": {
-    "name": "GitHub",
-    "avatar": "https://cdn.discordapp.com/avatars/1550275925306900600/e57fd67dc7ca0cc840a0e87a82281bc5.png?size=64"
-   },
-   "content": "",
-   "mentions": {},
-   "attachments": [],
-   "embeds": [
-    {
-     "kind": "rich",
-     "title": "[Redzs:main] 1 new commit",
-     "description": "[`d78fd7f`](https://github.com/TriggerPush/Redzs/commit/d78fd7f19b3a3a7ffa444664053a0b21eda8d9fe) zaurdian shit - LOLAIM3423423432",
-     "url": "https://github.com/TriggerPush/Redzs/commit/d78fd7f19b3a3a7ffa444664053a0b21eda8d9fe",
      "color": 7506394,
      "author": "LOLAIM3423423432",
      "footer": null,
